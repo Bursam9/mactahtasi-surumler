@@ -1,0 +1,10 @@
+{
+  "version": "0.120.1",
+  "date": "2026-09-24",
+  "notes": {
+    "tr": "Oyuncuya çift dokunarak hızlı düzenleme; her yerde P1–P6 rozetleri; Oyuncu Kartı ve rotasyon performansı; sesli komutla pozisyondan pozisyona hücum (\"4 numaradan 2'ye\"); iki oyuncu karşılaştırması; numara düzeltmesinden sonra geri al hatası giderildi.",
+    "en": "Double-tap quick player edit; P1–P6 badges everywhere; Player Card with rotation performance; voice commands for positional attacks; two-player comparison; fixed undo after changing a player's number."
+  },
+  "windows": "https://github.com/Bursam9/mactahtasi-surumler/releases/download/v0.120.1/voleybol-windows.zip",
+  "android": "https://github.com/Bursam9/mactahtasi-surumler/releases/download/v0.120.1/voleybol.apk"
+}
