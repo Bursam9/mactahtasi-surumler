@@ -1,0 +1,10 @@
+{
+  "version": "0.125.1",
+  "date": "2026-09-25",
+  "notes": {
+    "tr": "TEST SÜRÜMÜ. Lisans tek dokunuşla istenir ve onaylanınca kendiliğinden açılır; lisans uzatma/iptalleri en geç 15 dakikada cihaza ulaşır; güncelleme kontrolü düzeltildi.",
+    "en": "TEST BUILD. Licences are requested with one tap and unlock by themselves once approved; renewals/revocations reach the device within 15 minutes; update check fixed."
+  },
+  "windows": "https://github.com/Bursam9/mactahtasi-surumler/releases/download/v0.125.1/voleybol-windows.zip",
+  "android": "https://github.com/Bursam9/mactahtasi-surumler/releases/download/v0.125.1/voleybol.apk"
+}
