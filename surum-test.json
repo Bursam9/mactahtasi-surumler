@@ -1,10 +1,10 @@
 {
-    "version": "0.125.2",
+    "version": "0.125.3",
     "date": "2026-09-25",
     "notes": {
-        "tr": "• +1'e yanlışlıkla basınca: \"Sayı nasıl geldi?\" ya da \"Kim?\" sorusunu boşluğa dokunarak, geri tuşuyla veya yeni \"Vazgeç\" düğmesiyle kapatırsanız sayı yazılmaz. Sayıyı ayrıntısız yazmak için \"Sadece skor\" / \"Atla\".\n• −1 artık maçın sırasını korur: takımın son sayısından sonra rakibin sayıları (ya da mola, değişiklik) girildiyse hangilerinin geri alınacağını gösterir; onaylayınca hepsi geri alınır ve iki takımın dizilişi, servis ve libero o ana döner.\n• Güncellemeler artık geliştiricinin kendi sunucusundan iner.",
-        "en": "• −1 now keeps the match in order: if the other team's points (or a timeout, substitution) were entered after that team's last point, it lists what will be taken back; on confirm all of it is undone and both rotations, the serve and the libero return to that moment.\n• Pressed +1 by mistake: closing \"How did the point come?\" or \"Who?\" by tapping outside, with Back or the new \"Cancel\" button no longer adds the point. Use \"Score only\" / \"Skip\" to add it without details.\n• Updates are now downloaded from the developer's own server."
+        "tr": "• \"Güncelleme testi\" daha açık: herkese yayınlanmış sürüm ile test sürümü ayrı gösterilir; cihaz test sürümlerini almıyorsa bu da yazılır.",
+        "en": "• \"Update test\" is clearer: the version published for everyone and the test build are shown separately, and it says so when this device does not get test builds."
     },
-    "android": "https://volleyapp.mygardrop.com/guncelleme/v0.125.2/voleybol.apk",
-    "windows": "https://volleyapp.mygardrop.com/guncelleme/v0.125.2/voleybol-windows.zip"
+    "android": "https://volleyapp.mygardrop.com/guncelleme/v0.125.3/voleybol.apk",
+    "windows": "https://volleyapp.mygardrop.com/guncelleme/v0.125.3/voleybol-windows.zip"
 }
