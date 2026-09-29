@@ -1,12 +1,12 @@
 {
-    "version": "0.126.1",
-    "date": "2026-09-28",
+    "version": "0.127.0",
+    "date": "2026-09-29",
     "notes": {
-        "tr": "• Libero: LİBERO ekranında diğer liberoya dokununca sahadaki libero hemen değişir (aynı oyuncunun yerinde kalır, değişiklik hakkından düşmez, geri alınabilir). Önceden yalnız sonraki giriş için seçiliyordu.\n• Oyuncu menüsü → Savunma → Hata: sayıyı kimin vurduğu artık RAKİP takıma soruluyor (önceden kendi takımına soruluyordu; libero dahil tüm oyuncularda).\n• Alttan çıkan bilgi çubukları 1 saniyede kaybolur (\"GERİ AL\" düğmeli olanlar dahil; önceden düğmeli olanlar ekranda takılı kalıyordu).\n• Telefon görünümü: yatayda üst bilgi çubukları küçüldü (momentum çubuğu gizli), saha büyüdü; dikeyde sahadaki numara, P1–P6 etiketi ve isim artık üst üste binmiyor, \"SERVİS\" etiketi takım adını itmiyor.",
-        "en": "• Libero: on the LIBERO sheet, tapping the other libero swaps the one on court right away (same player covered, not a substitution, can be undone). Before, it only chose the next entry.\n• Player menu → Dig → Error: \"who hit the kill?\" now asks the OPPONENT (it asked your own team; every player, the libero included).\n• Bottom info bars disappear after 1 second (also the ones with an \"UNDO\" button, which used to stay stuck).\n• Phone view: in landscape the top bars are smaller (no momentum bar) and the court bigger; in portrait the number, the P1–P6 tag and the name on court no longer overlap and the \"SERVE\" tag no longer pushes the team name out."
+        "tr": "• Ralli modu (Ayarlar veya skor ekranının üst çubuğundaki el simgesi): ralli sürerken topa dokunan oyunculara sırayla dokunun — karşılama, hücum, savunma kendiliğinden anlaşılır, sahanın altındaki şeritte görünür (dokunarak türünü/kalitesini değiştirin ya da silin). +1 sayının nasıl geldiğini kendisi yazar: smaç + pasöre asist, ace + karşılama hatası, savunma hatası, blok. Yalnız kaybeden takımın hücumu son temassa \"hata mı, blok mu?\" sorulur. Hücum denemeleri sayıldığı için hücum verimi artık gerçek. Oyuncu menüsü ralli modunda uzun basınca açılır.\n• Telefon görünümü (tüm düzenler): saha, file ve çerçeve çizgileri inceldi; \"3m / 6m\" yazıları telefonda gizli; isimler yanındaki oyuncuya ve 3 metre çizgisine değmiyor; dar panelde MOLA / SERVİS / LİBERO / KART düğmeleri yalnız simge ve sayı gösterir; klasik düzende saha daha büyük.\n• Yeni uygulama simgesi: smaç vuran oyuncu.",
+        "en": "• Rally mode (Settings or the hand icon on the score screen's top bar): during the rally tap the players who touch the ball, in order — reception, attack and dig are worked out and shown on a strip under the courts (tap one to change its kind / quality or delete it). +1 records how the point came by itself: kill + assist to the setter, ace + reception error, dig error, block. Only when the losing team's attack was the last contact is 'error or blocked?' asked. Attack attempts are counted, so attack efficiency is real now. In rally mode the player menu opens with a long press.\n• Phone view (every layout): thinner court, net and frame lines; no \"3m / 6m\" labels on phones; names no longer touch the next player or the 3 m line; in a narrow panel the TIMEOUT / SERVE / LIBERO / CARD buttons show only the icon and the number; bigger court in the classic layout.\n• New app icon: a player hitting a spike."
     },
-    "android": "https://volleyapp.mygardrop.com/guncelleme/v0.126.1/voleybol.apk",
-    "androidSha256": "95e04d7a8ae96cf0ee0a67edfb4b25a563a0251c6b57344650134684ef9bd1ac",
-    "windows": "https://volleyapp.mygardrop.com/guncelleme/v0.126.1/voleybol-windows.zip",
-    "windowsSha256": "9d12afc477edfa51769a2db874e8b07f84d6398ba4f5851df14254605013933a"
+    "android": "https://volleyapp.mygardrop.com/guncelleme/v0.127.0/voleybol.apk",
+    "androidSha256": "3093f44d74f50b6d3ea2aacda20f332249cf0567872eb2d6026e73038f61afde",
+    "windows": "https://volleyapp.mygardrop.com/guncelleme/v0.127.0/voleybol-windows.zip",
+    "windowsSha256": "302a33704969ae246b8506ee5c5b3043bcd916773f5348c5c52bb994816ca8a3"
 }
