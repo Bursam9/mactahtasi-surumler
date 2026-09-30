@@ -1,12 +1,12 @@
 {
-    "version": "0.127.4",
+    "version": "0.127.5",
     "date": "2026-09-30",
     "notes": {
-        "tr": "• Ralli ekranı: skor ekranının üst çubuğundaki el simgesi tek bir ekran açar — iki takımın sahadaki altılısı; ralli boyunca topa dokunan oyunculara sırayla dokunun (iki takımda da savunma ve hücumlar), üstteki şeritte görünür (dokunarak düzeltin, ⌫ son teması siler, “Sıradaki” ile türü seçebilirsiniz). Ralli bitince kazanan takımın altındaki SAYI: smaç + asist, savunma hatası, blok kendiliğinden yazılır; son temas rakibin hücumuysa aynı ekranda “Hücum hata / Blok yedi”, hiç temas yoksa “Ace / Servis hatası” seçilir.\n• Oyuncular ekrandaki boş alana göre büyür (tablette büyük dokunma alanı); dar telefonda seçenekler alt alta.",
-        "en": "• Rally screen: the hand icon on the score screen's top bar opens one screen — both teams' six; during the rally tap the players who touch the ball, in order (digs and attacks on both sides), shown on the strip on top (tap to correct, ⌫ deletes the last contact, “Next” picks the kind). When the rally ends, POINT under the winning team: kill + assist, failed dig, block are written by themselves; if the last contact was the other team's attack, “Attack error / Got blocked” on the same screen, with no contact “Ace / Serve error”.\n• The players grow into the free space (big targets on a tablet); on a narrow phone the choices stack."
+        "tr": "• Ayarlar'a “Güncelleme” sekmesi (Genel ve Görünüm Seçenekleri'nin yanında): bu cihazdaki sürüm, tarih, platform, kanal ve son denetim; güncel mi, yeni sürüm ve notları; Şimdi denetle, indirme ilerlemesi ve Şimdi yükle; güncellemenin adım adım nasıl yapıldığı; otomatik denetim ve test kanalı anahtarları, güncelleme testi ve geçmişi; bu sürümle gelenler. Genel sekmesindeki güncelleme bölümü buraya taşındı.",
+        "en": "• Settings got an “Updates” tab (next to General and View options): the version on this device, its date, platform, channel and the last check; up to date or the new version and its notes; Check now, the download progress and Install now; how an update works step by step; the automatic check and test channel switches, the update test and history; what this version brought. The update block of the General tab moved here."
     },
-    "android": "https://volleyapp.mygardrop.com/guncelleme/v0.127.4/voleybol.apk",
-    "androidSha256": "79d687fe0e03f7ba75c90d0d2cff69bffe2a7f5785bb32511a0c2b36bf3b59af",
-    "windows": "https://volleyapp.mygardrop.com/guncelleme/v0.127.4/voleybol-windows.zip",
-    "windowsSha256": "fba7e0bb7ca73101531df9de9eb830fc4daddf9a0c0f9286a8ce4b5ddb27ee45"
+    "android": "https://volleyapp.mygardrop.com/guncelleme/v0.127.5/voleybol.apk",
+    "androidSha256": "7b888049b012f9465e3f0273e82ebbccb36fe4fd19089be029b7c685fbb95e02",
+    "windows": "https://volleyapp.mygardrop.com/guncelleme/v0.127.5/voleybol-windows.zip",
+    "windowsSha256": "01e165c316a1cd6103513671de341ed00a0301b838e29ed49a37ff15291fc4d8"
 }
