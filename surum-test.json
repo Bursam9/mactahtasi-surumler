@@ -1,12 +1,12 @@
 {
-    "version": "0.127.2",
-    "date": "2026-09-29",
+    "version": "0.127.4",
+    "date": "2026-09-30",
     "notes": {
-        "tr": "• Tek ekranda sayı: +1 → Smaç / Plase / Blok / Ace seçince tek bir ekran açılır — üstte saha (topun düştüğü yere dokunun ya da vurulduğu yerden sürükleyin, isteğe bağlı), altta iki takımın sahadaki altılısı: vuran ve savunmada düşen (blokta blok yapan ve bloğa takılan, ace'te karşılamada hata yapan) seçilir, tek “Kaydet”.\n• Ace ve rakibin servis hatası: servisi atan belli olduğu için oyuncu sorulmaz, istatistik doğrudan servisçiye yazılır.\n• Telefon ve küçük tablet: “SERVİS #12 Derya” etiketi geri geldi (takım adının üstünde, adı itmeden); üst çubukta servisçi numarası; dar panellerde okunmayan düğme yazıları simge + sayıya indi; sayı bandında uzun takım adı taşmıyor.",
-        "en": "• One-screen point entry: +1 → Kill / Tip / Block / Ace opens one screen — the court on top (tap where the ball landed or drag from where it was hit, optional) and both teams' six on court below: pick the attacker and the failed dig (the blocker and the blocked attacker, the reception error on an ace), one “Save”.\n• Ace and the opponent's serve error: the server is known, so no player question — the stat goes straight to the server.\n• Phone and small tablet: the “SERVE #12 Derya” tag is back (above the team name, without pushing it out); the server's number in the top bar; unreadable button labels in narrow panels became icon + number; a long team name no longer overflows the point banner."
+        "tr": "• Ralli ekranı: skor ekranının üst çubuğundaki el simgesi tek bir ekran açar — iki takımın sahadaki altılısı; ralli boyunca topa dokunan oyunculara sırayla dokunun (iki takımda da savunma ve hücumlar), üstteki şeritte görünür (dokunarak düzeltin, ⌫ son teması siler, “Sıradaki” ile türü seçebilirsiniz). Ralli bitince kazanan takımın altındaki SAYI: smaç + asist, savunma hatası, blok kendiliğinden yazılır; son temas rakibin hücumuysa aynı ekranda “Hücum hata / Blok yedi”, hiç temas yoksa “Ace / Servis hatası” seçilir.\n• Oyuncular ekrandaki boş alana göre büyür (tablette büyük dokunma alanı); dar telefonda seçenekler alt alta.",
+        "en": "• Rally screen: the hand icon on the score screen's top bar opens one screen — both teams' six; during the rally tap the players who touch the ball, in order (digs and attacks on both sides), shown on the strip on top (tap to correct, ⌫ deletes the last contact, “Next” picks the kind). When the rally ends, POINT under the winning team: kill + assist, failed dig, block are written by themselves; if the last contact was the other team's attack, “Attack error / Got blocked” on the same screen, with no contact “Ace / Serve error”.\n• The players grow into the free space (big targets on a tablet); on a narrow phone the choices stack."
     },
-    "android": "https://volleyapp.mygardrop.com/guncelleme/v0.127.2/voleybol.apk",
-    "androidSha256": "f3833e08f311b1ed59ca70cb3c1f10eab504d7b3dc3ba26b543c8b4e9ef2a72a",
-    "windows": "https://volleyapp.mygardrop.com/guncelleme/v0.127.2/voleybol-windows.zip",
-    "windowsSha256": "073c1e4bb5ed3a50db28ca9a7b24dcd4bedc2c9a66f4ad5ba26831d925c7dcae"
+    "android": "https://volleyapp.mygardrop.com/guncelleme/v0.127.4/voleybol.apk",
+    "androidSha256": "79d687fe0e03f7ba75c90d0d2cff69bffe2a7f5785bb32511a0c2b36bf3b59af",
+    "windows": "https://volleyapp.mygardrop.com/guncelleme/v0.127.4/voleybol-windows.zip",
+    "windowsSha256": "fba7e0bb7ca73101531df9de9eb830fc4daddf9a0c0f9286a8ce4b5ddb27ee45"
 }
