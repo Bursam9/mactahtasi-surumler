@@ -1,12 +1,12 @@
 {
-    "version": "0.127.8",
+    "version": "0.127.9",
     "date": "2026-10-01",
     "notes": {
-        "tr": "• +1'e basınca açılan “Sayı nasıl geldi?” penceresinde “Ralliyi gir”: ralli ekranı açılır, kazanan belli olduğu için yalnız onun SAYI düğmesi vardır; iki takımın temaslarını girip SAYI ile bitirirsiniz. Kapatırsanız sayı aynen kalır.\n• Ralli ekranında tür düğmeleri (Otomatik, Karşılama, Pas, Hücum, Savunma, Blok) büyüdü; altlarında istatistik işaretleri: karşılama # + −, savunma ++ +. Önce oyuncuya dokunup sonra işarete basarsanız o temas işaretlenir; önce işarete basarsanız sıradaki temas o tür ve kalitede girilir.",
-        "en": "• In the “How did the point come?” window after +1: “Enter the rally” opens the rally screen with the winner known (only its POINT button); enter both teams' contacts and finish with POINT. Closing it keeps the point as it was.\n• The kind buttons on the rally screen (Automatic, Reception, Set, Attack, Dig, Block) are bigger, with the stat marks under them: reception # + −, dig ++ +. Tap the player then the mark to grade that contact; tap the mark first to set the kind and quality of the next contact."
+        "tr": "• Ralli ekranında her türün altında işaretler: Karşılama # + − ✗, Pas ++ + ✗, Hücum ✓ ++ + ✗, Savunma ++ + ✗, Blok ✓ + ✗. ✗ (hata) ralliyi hemen bitirir ve sayıyı rakibe yazar; hücum ve blokta ✓ ralliyi bitirip sayıyı o takıma yazar. Pas kalitesi (++, +, hata) artık istatistiğe de yazılır.\n• Ralli ekranında topun hangi tarafta olduğu görünür: o takımın çerçevesi sarı yanar ve “TOP BURADA” yazar. Dikey telefonda o an işlenen türün işaretleri tek satırda büyük düğmelerle çıkar.",
+        "en": "• Marks under every kind on the rally screen: reception # + − ✗, set ++ + ✗, attack ✓ ++ + ✗, dig ++ + ✗, block ✓ + ✗. ✗ (error) ends the rally at once with the point to the other team; ✓ on attack and block ends it with the point to that team. Set quality (++, +, error) is now recorded as a stat too.\n• The rally screen shows which side the ball is on: that team's frame lights up with “BALL HERE”. On a phone in portrait the marks of the kind being entered show on one row of big buttons."
     },
-    "android": "https://volleyapp.mygardrop.com/guncelleme/v0.127.8/voleybol.apk",
-    "androidSha256": "0c0d1aef1dcedcc16cbef0b262c4638007a2535dd4354ac374055e49c42fdddf",
-    "windows": "https://volleyapp.mygardrop.com/guncelleme/v0.127.8/voleybol-windows.zip",
-    "windowsSha256": "015bc4e39ddddd22a2f13eef45765a110be72868cdbccee4eac6d85bf709657b"
+    "android": "https://volleyapp.mygardrop.com/guncelleme/v0.127.9/voleybol.apk",
+    "androidSha256": "2ede69305ba780d4cc26ddce73642d57b558c1be7d36188596324336e2cd186d",
+    "windows": "https://volleyapp.mygardrop.com/guncelleme/v0.127.9/voleybol-windows.zip",
+    "windowsSha256": "e37b6d17e037442521c95e379de06e3e3866cb491e824a74f77441cb6b9555e7"
 }
