@@ -1,12 +1,12 @@
 {
-    "version": "0.127.6",
+    "version": "0.127.7",
     "date": "2026-09-30",
     "notes": {
-        "tr": "• Windows: program tek kopya çalışır — ikinci kez açılırsa açık olan pencere öne gelir; güncellemede eski sürüm kendiliğinden kapanmazsa kapatılır, arka planda ikinci bir kopya kalmaz.\n• Ayarlar → Güncelleme: indirilen güncelleme dosyaları (kaç dosya, kaç MB) ve “Temizle”. Android'de, eski sürümlerin tarayıcıyla İndirilenler'e bıraktığı APK'ları silmek için “İndirilenler klasörünü aç”.",
-        "en": "• Windows: the app runs as one copy — starting it again brings the open window to the front; during an update the old version is closed if it does not close by itself, so no second copy stays in the background.\n• Settings → Updates: the downloaded update files (how many, how many MB) and “Clear”. On Android, “Open Downloads” to delete the APKs older versions left there via the browser."
+        "tr": "• Tek ekranda sayı ve ralli ekranı dikey telefonda büyüdü: iki takım üst üste, file ortada (gerçek saha gibi), her sırada 3 oyuncu ekranın tam genişliğinde; yuvarlaklar boş alana göre büyür, isimler altında tam okunur. Ralli ekranında SAYI düğmesi takım adının yanında, “Hücum hata / Blok yedi” seçenekleri hemen altında.",
+        "en": "• The one-screen point entry and the rally screen are much bigger on a phone in portrait: the two teams one above the other with the net in the middle (like the real court), 3 players per row across the full width; the circles grow into the free space and the names read in full underneath. On the rally screen the POINT button sits beside the team name, “Attack error / Got blocked” right under it."
     },
-    "android": "https://volleyapp.mygardrop.com/guncelleme/v0.127.6/voleybol.apk",
-    "androidSha256": "70d9d99aab8e9c4ddce9cd1275040932f665a016db5e046d1ab708613e654d94",
-    "windows": "https://volleyapp.mygardrop.com/guncelleme/v0.127.6/voleybol-windows.zip",
-    "windowsSha256": "859ddf5ed2e5a483c23060c58f20f017008a266905143f01a76b43b1b1a38326"
+    "android": "https://volleyapp.mygardrop.com/guncelleme/v0.127.7/voleybol.apk",
+    "androidSha256": "a37dba4a550c0529da8dbfbfdd8ec7fe2ac69b6773f21982279dd2c04ebb7c17",
+    "windows": "https://volleyapp.mygardrop.com/guncelleme/v0.127.7/voleybol-windows.zip",
+    "windowsSha256": "d9523e8a826471f9bd38f3a0f59cdb12fd2bd7f739d9c94261b8fac08b91a250"
 }
