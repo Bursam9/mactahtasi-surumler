@@ -1,12 +1,12 @@
 {
-    "version": "0.128.0",
+    "version": "0.128.2",
     "date": "2026-10-01",
     "notes": {
-        "tr": "• YENİ — Antrenman modu (PRO): ana ekranda ANTRENMAN. “Antrenmana hoş geldiniz” ile takımı seçip yoklama alırsınız (Geldi / Gelmedi / Geç geldi); girişi kimin yaptığını seçersiniz: antrenör (hızlı — işaret seçili kalır, oyuncuya dokunmak yeterli) ya da yardımcı (önce oyuncu, sonra işaret).\n• Egzersizler: servis, karşılama, hücum, savunma, 3 noktada savunma, pas, blok, servis-karşılama (maçtaki işaretlerle: ACE ++ + ✗, # + − ✗ …); kuvvet, denge, koordinasyon, çeviklik (dokunarak tekrar sayımı); 6'ya 6, 6'ya 3, 4'e 4, 3'e 3, 2'ye 2 oyunlar (iki taraf, skor, sayıyı alan oyuncu).\n• Egzersiz tasarla: sahaya A/B oyuncuları, koni, hedef ve top yerleştirip adını ve nasıl girileceğini seçersiniz; egzersiz sırasında çizim ekranda görünür.\n• Antrenman özeti: süre, yoklama, egzersizler, oyuncular kaliteye göre (başarı, kalite, kondisyon); oyuncu kartı ve “Veliye gönder”; paylaşım: WhatsApp/mesaj metni, PDF, büyük ekran (projeksiyon), kopyala. Karşılaştır: takımlar ve takım içi oyuncular son 30 / 90 gün ya da tümü (devam, başarı, kalite, verim, her beceri).",
-        "en": "• NEW — Training mode (PRO): TRAINING on the home screen. “Welcome to practice”: pick the team and take attendance (here / absent / late); choose who enters: the coach (fast — the mark stays chosen, a tap on the player is enough) or an assistant (player first, then the mark).\n• Drills: serve, reception, attack, defence, 3-point defence, setting, block, serve-receive (with the match marks: ACE ++ + ✗, # + − ✗ …); strength, balance, coordination, agility (tap to count reps); games 6 v 6, 6 v 3, 4 v 4, 3 v 3, 2 v 2 (two sides, score, who won the point).\n• Design drills: place A/B players, cones, targets and the ball on a court, name it and choose how it is entered; the drawing shows during the drill.\n• Practice summary: time, attendance, drills, players by quality (success, quality, fitness); player card and “Send to the parents”; share as WhatsApp/message text, PDF, big screen (projector), copy. Compare: teams and the players within a team over the last 30 / 90 days or all (attendance, success, quality, work rate, every skill)."
+        "tr": "• Antrenman modu artık PRO+ lisansla açılır (PRO+ = PRO paketi + Antrenman modu). Ana ekrandaki büyük düğme yerine sol üst köşede silik, filigran gibi “ANTRENMAN” yazısı; üzerine gelince / dokununca belirginleşir ve antrenman ekranını açar.",
+        "en": "• Training mode now comes with a PRO+ licence (PRO+ = the PRO bundle + Training mode). Instead of the big home button there is a faint, watermark-like “TRAINING” in the top-left corner; it lights up under the mouse / finger and opens training."
     },
-    "android": "https://volleyapp.mygardrop.com/guncelleme/v0.128.0/voleybol.apk",
-    "androidSha256": "6f13a181113d215cccf481e56602e7e887ddf5285b5e80d95113b1ecdfadf53c",
-    "windows": "https://volleyapp.mygardrop.com/guncelleme/v0.128.0/voleybol-windows.zip",
-    "windowsSha256": "e4c88e5b2c6b0049628912c36189adc3e8fa3a6eda766dbab7fd43b34933910e"
+    "android": "https://volleyapp.mygardrop.com/guncelleme/v0.128.2/voleybol.apk",
+    "androidSha256": "18eca60e6c14d0e571a7f3b34edb3074edb0bee255521b885344bc1726f02e63",
+    "windows": "https://volleyapp.mygardrop.com/guncelleme/v0.128.2/voleybol-windows.zip",
+    "windowsSha256": "4402066b6303f67d6ec06d5bcecd56d93dea5842c10ef590ff072719814a61bf"
 }
