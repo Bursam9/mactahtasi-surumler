@@ -1,12 +1,12 @@
 {
-    "version": "0.128.3",
-    "date": "2026-10-01",
+    "version": "0.129.0",
+    "date": "2026-10-02",
     "notes": {
-        "tr": "• Ralli ekranında yatay saha: tür düğmelerinin altında (telefon yatayda iki takımın arasında) 9 bölgeli saha. Topun düştüğü yere dokunursunuz; sayı nasıl gelirse gelsin o nokta kaydedilir (smaç, ace, blok ya da rakibin hatası), ayrıca nokta sorulmaz. Uzun basış ya da × noktayı siler.\n• Karşılama ve Savunma tek düğme oldu (“Karşılama / Savunma”): servisi karşılayan takımın ilk teması karşılama, diğerleri savunma sayılır; işaretler de buna göre (# + − ✗ ya da ++ + ✗).\n• Pas düğmesinin yanında “Pası kim attı?” seçici: pas varsayılan olarak pasöre yazılır; başka bir oyuncu attıysa listeden seçersiniz, pas ve asist ona yazılır.",
-        "en": "• Horizontal court on the rally screen: a 9-zone court under the kind buttons (between the teams on a phone in landscape). Tap where the ball landed; however the point came, the spot is saved (kill, ace, block or the other team's error) and no separate spot question follows. Long press or × clears it.\n• Reception and Dig are one button now (“Reception / Dig”): the receiving team's first contact is the reception, the others digs; the marks follow (# + − ✗ or ++ + ✗).\n• “Who set?” next to the Set button: the set goes to the setter by default; if someone else set, pick them from the list and the set and the assist are theirs."
+        "tr": "• YENİ — Rotasyona göre sideout ve break: her takımın 6 rotasyonunda karşılamada ve serviste sayı alma yüzdesi; en zayıf ▼ ve en iyi ▲ rotasyon işaretli. Takımda pasör varsa rotasyon pasörün yerine göre (P1…P6), yoksa set başındaki dizilişten sayılır. Maç özetinde ve Analiz ekranında.\n• YENİ — Maçın akışı: sayı sayı fark grafiği (setler ayrı) ve 3 sayı ve üstü seriler, en uzun seri.\n• YENİ — Seri uyarısı: bir takım üst üste 4 sayı alınca (sonra her 2 sayıda) skor ekranında uyarı ve rakibin kalan mola hakkı. Ayarlar'dan kapatılabilir.\n• FIVB 2025–2028 kuralı: “Sayı nasıl geldi?” penceresinde rakip hatalarına “Dizilim hatası” (yalnız karşılayan takım için; servis atan takım artık istediği yerde durabilir) ve “Servis sırası hatası” (servis atan takım için) eklendi.",
+        "en": "• NEW — Side-out and break by rotation: each team's point-winning % when receiving and when serving in all 6 rotations; the weakest ▼ and the best ▲ marked. With a setter the rotation is named by the setter's position (P1…P6), otherwise counted from the set's starting lineup. In the match summary and on the Analysis screen.\n• NEW — Match flow: the point-by-point score difference (sets apart) and the runs of 3 or more, with the longest run.\n• NEW — Run alert: when a team scores 4 in a row (then every 2 more), an alert on the score screen with the other team's timeouts left. Can be turned off in Settings.\n• FIVB 2025–2028 rule: the “How did the point come?” window has “Positional fault” (receiving team only; the serving team may now stand anywhere) and “Rotation fault” (serving team) among the opponent's errors."
     },
-    "android": "https://volleyapp.mygardrop.com/guncelleme/v0.128.3/voleybol.apk",
-    "androidSha256": "e03b14c5aaa1d1e1d128246483529056174673fc5fcfdb32ba309c69fa4106b6",
-    "windows": "https://volleyapp.mygardrop.com/guncelleme/v0.128.3/voleybol-windows.zip",
-    "windowsSha256": "cb9222729f99fd002fc4af0fe084c515bc356b9c7697987aa9437f2ce6133ce1"
+    "android": "https://volleyapp.mygardrop.com/guncelleme/v0.129.0/voleybol.apk",
+    "androidSha256": "cc776275a2ca7ad69eade5a4b258bfaeaca46235221f7a4badc1c803061b44ce",
+    "windows": "https://volleyapp.mygardrop.com/guncelleme/v0.129.0/voleybol-windows.zip",
+    "windowsSha256": "0bfb7b6fbda8e06e79b993a72024df969350ccac7a54c442bcad0358791da651"
 }
