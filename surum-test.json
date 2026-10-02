@@ -1,12 +1,12 @@
 {
-    "version": "0.129.1",
+    "version": "0.130.0",
     "date": "2026-10-02",
     "notes": {
-        "tr": "• Set çubuğunda değişiklik sayıları ayrıldı: soldaki takımınki solda, sağdakininki sağda, takım renginde belirgin bir kutu içinde (“DEĞ 2/6”; 6 dolunca kırmızı çerçeve).\n• Seri uyarısı artık kaybolmuyor: set çubuğunun tam ortasında, seri yapan takıma dönük okla 3–0'dan itibaren görünür; 4–0'dan sonra takım renginde dolar ve rakibin kalan mola hakkını gösterir; seri bitince gider. 4–0'da ve sonra her 2 sayıda ses.\n• Oyuncuya dokununca açılan pencerede Karşılama ve Savunma tek satır (karşılayan takımın ilk teması karşılama, sonrası savunma; satırın adına dokunarak değiştirilir). Yeni “Pas” satırı: ++, +, ✗ hata (sayı rakibe) ve Asist.",
-        "en": "• Substitutions split on the set bar: the left team's on the left, the right team's on the right, in a box in the team's color (“SUBS 2/6”; red frame when all 6 are used).\n• The run alert stays: in the middle of the set bar, an arrow pointing to the team on the run, from 3–0; from 4–0 filled in the team's color with the other team's timeouts left; gone when the run ends. A sound at 4–0 and every 2 more.\n• The player menu has one Reception / Dig row (the receiving team's first contact is the reception, the rest digs; tap the row's name to switch). New “Set” row: ++, +, ✗ error (point to the other team) and Assist."
+        "tr": "• YENİ — Mola asistanı: mola alınınca 30 saniyelik kart açılır (süre bitince kendiliğinden kapanır): son 8 sayı ve seri, bizim ve rakibin şu anki rotasyonu (bu maçtaki sideout / break), rakibin en zayıf rotasyonu, bu setteki karşılamamız ve servisin en çok gittiği oyuncu, iki takımın hataları, en etkili hücumcumuz; “Detaylı analiz” ile Analiz ekranı. Ayarlar'dan kapatılabilir.\n• YENİ — Pas dağılımı: hücumların hangi koldan geldiği (sol 4, orta 3, sağ 2, arka), rallinin karşılamasına göre (# + −) ya da geçişte; her hücrede pay ve sayı oranı; hücumcuların payı. Maç özetinde ve Analiz ekranında.\n• Oyuncuya dokunup sayıyla biten bir şey seçince (smaç, blok, ace; savunma / karşılama hatası, blok yeme) artık +1'deki yatay ekran açılır: üstte saha çizimi, altta iki takımın 6'sı; dokunduğunuz oyuncu seçili gelir. Vazgeç sayıyı geri alır.",
+        "en": "• NEW — Timeout assistant: a 30-second card when a timeout is called (closes by itself): the last 8 points and the run, both teams' current rotation (side-out / break this match), their weakest rotation, our reception this set and the player served at most, both teams' errors, our best attacker; “Full analysis” opens the Analysis screen. Can be turned off in Settings.\n• NEW — Set distribution: which lane the attacks came from (left 4, middle 3, right 2, back), by the rally's reception (# + −) or in transition; share and kill rate in each cell; the attackers' shares. In the match summary and on the Analysis screen.\n• A point chosen from the player menu (kill, block, ace; dig / reception error, blocked) now opens the horizontal +1 screen: the court drawing on top, both sixes below, with the tapped player already chosen. Cancel takes the point back."
     },
-    "android": "https://volleyapp.mygardrop.com/guncelleme/v0.129.1/voleybol.apk",
-    "androidSha256": "66a8c178dbe9795e7e8648efc05f383454bc775dc249298354c7b21c467491b6",
-    "windows": "https://volleyapp.mygardrop.com/guncelleme/v0.129.1/voleybol-windows.zip",
-    "windowsSha256": "c15c06724d2889155cd9802ee56362559f209ff287bf4147a9a599dd550c3911"
+    "android": "https://volleyapp.mygardrop.com/guncelleme/v0.130.0/voleybol.apk",
+    "androidSha256": "067e4be68ef2795d05c9be16f27fb1701bb82593368a84b12eaee2fd2e900369",
+    "windows": "https://volleyapp.mygardrop.com/guncelleme/v0.130.0/voleybol-windows.zip",
+    "windowsSha256": "c85612a810d4f559391f49857e72dbde8b589fe4ec0e92cd8ad5c055b45c4c0d"
 }
