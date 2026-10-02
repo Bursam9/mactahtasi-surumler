@@ -1,12 +1,12 @@
 {
-    "version": "0.128.2",
+    "version": "0.128.3",
     "date": "2026-10-01",
     "notes": {
-        "tr": "• Antrenman modu artık PRO+ lisansla açılır (PRO+ = PRO paketi + Antrenman modu). Ana ekrandaki büyük düğme yerine sol üst köşede silik, filigran gibi “ANTRENMAN” yazısı; üzerine gelince / dokununca belirginleşir ve antrenman ekranını açar.",
-        "en": "• Training mode now comes with a PRO+ licence (PRO+ = the PRO bundle + Training mode). Instead of the big home button there is a faint, watermark-like “TRAINING” in the top-left corner; it lights up under the mouse / finger and opens training."
+        "tr": "• Ralli ekranında yatay saha: tür düğmelerinin altında (telefon yatayda iki takımın arasında) 9 bölgeli saha. Topun düştüğü yere dokunursunuz; sayı nasıl gelirse gelsin o nokta kaydedilir (smaç, ace, blok ya da rakibin hatası), ayrıca nokta sorulmaz. Uzun basış ya da × noktayı siler.\n• Karşılama ve Savunma tek düğme oldu (“Karşılama / Savunma”): servisi karşılayan takımın ilk teması karşılama, diğerleri savunma sayılır; işaretler de buna göre (# + − ✗ ya da ++ + ✗).\n• Pas düğmesinin yanında “Pası kim attı?” seçici: pas varsayılan olarak pasöre yazılır; başka bir oyuncu attıysa listeden seçersiniz, pas ve asist ona yazılır.",
+        "en": "• Horizontal court on the rally screen: a 9-zone court under the kind buttons (between the teams on a phone in landscape). Tap where the ball landed; however the point came, the spot is saved (kill, ace, block or the other team's error) and no separate spot question follows. Long press or × clears it.\n• Reception and Dig are one button now (“Reception / Dig”): the receiving team's first contact is the reception, the others digs; the marks follow (# + − ✗ or ++ + ✗).\n• “Who set?” next to the Set button: the set goes to the setter by default; if someone else set, pick them from the list and the set and the assist are theirs."
     },
-    "android": "https://volleyapp.mygardrop.com/guncelleme/v0.128.2/voleybol.apk",
-    "androidSha256": "18eca60e6c14d0e571a7f3b34edb3074edb0bee255521b885344bc1726f02e63",
-    "windows": "https://volleyapp.mygardrop.com/guncelleme/v0.128.2/voleybol-windows.zip",
-    "windowsSha256": "4402066b6303f67d6ec06d5bcecd56d93dea5842c10ef590ff072719814a61bf"
+    "android": "https://volleyapp.mygardrop.com/guncelleme/v0.128.3/voleybol.apk",
+    "androidSha256": "e03b14c5aaa1d1e1d128246483529056174673fc5fcfdb32ba309c69fa4106b6",
+    "windows": "https://volleyapp.mygardrop.com/guncelleme/v0.128.3/voleybol-windows.zip",
+    "windowsSha256": "cb9222729f99fd002fc4af0fe084c515bc356b9c7697987aa9437f2ce6133ce1"
 }
