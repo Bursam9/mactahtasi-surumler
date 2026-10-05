@@ -1,16 +1,16 @@
 {
-    "version": "0.144.1",
+    "version": "0.145.0",
     "date": "2026-10-05",
     "notes": {
-        "tr": "• DÜZELTME — Takım bulutu: oyuncu bağlantısı artık her cihazda aynı (önceden ikinci cihazdan gönderilen bağlantılar boş kartı açabiliyordu). Kişisel veri silmede oyuncunun sunucudaki kartı ve anketleri de silinir, bağlantısı yenilenir; silinen kayıtlar eşitlemeyle geri gelmez, diğer cihazdan da kalkar. Çok büyük eşitleme paketi için anlaşılır uyarı.\n• DÜZELTME — Hakem itirazıyla (challenge) çevrilen sayıda o rallinin istatistikleri de geri alınır.\n• DÜZELTME — Turnuva: 3 ve daha çok gruplu turnuvada eleme tablosu kurulur (grup birincileri + en iyi ikinci); çeyrek finale kalanların vurgusu doğru.\n• DÜZELTME — Güncelleme indirme: parçalı indirmeyi desteklediğini söyleyip desteklemeyen sunucuda tek parçalı indirmeye geçer; yardımcı antrenör bağlantısı sunucu yeniden başlayınca kopmaz; aylık raporda kapanan pencere hatası; oyun egzersizi yük hesabında üst sınır.",
-        "en": "• FIX — Team cloud: a player's link is now the same on every device (links sent from the second device could open an empty card). Erasing personal data also deletes the player's card and answers on the server and renews the link; erased records never come back with a sync and go from the other device too. A clear message for a too-large sync bundle.\n• FIX — A point reversed by a challenge also takes back that rally's stats.\n• FIX — Tournament: with 3 or more groups the knockout is built (group winners + best runner-up); the qualifier highlight is right.\n• FIX — Update download: a server that claims partial downloads but does not deliver them falls back to one stream; the assistant's link survives a server restart; a closed-sheet error in the monthly report; a cap in the game-drill load."
+        "tr": "• YENİ — Sezon panosu (Maç geçmişi → grafik simgesi): bir takımın bu sezonu, son 30 günü, tümü ya da seçtiğiniz tarih aralığı tek ekranda — galibiyet–mağlubiyet ve kazanma oranı, set ve sayı farkı, sideout ve break, ace ve servis hatası, iyi karşılama, hücum oranı ve verimi, son maçlar ve seri. Haftalık ya da maç maç çizgi grafikler; hazırlık maçları dahil / hariç.\n• YENİ — Servisçi uyarısı: sahaların altında, servis atacak oyuncunun bu maçta ve geçmiş maçlarda en çok hangi bölgeye attığı, ace ve hata oranı (“SERVİS #9 · çoğu Z1 %40 · ace %12 · hata %18”). Dokununca bölge haritası. Ayarlardan kapatılabilir.\n• YENİ — Otomatik bulut yedeği (Ayarlar → Kayıtlar): her gün bütün kayıtlarınız — maçlar, takımlar, antrenmanlar, oyuncu takibi, takvim, turnuva ve kulüp — kendi sunucumuza yedeklenir, bir önceki yedek de saklanır. Telefon kaybolursa yeni cihazda “Buluttan geri yükle” + yedek anahtarı ile geri gelir. “Tüm kayıtları dışa aktar” dosyası da artık antrenman, turnuva ve kulüp kayıtlarını içeriyor.",
+        "en": "• NEW — Season board (Match history → chart icon): a team's season, last 30 days, everything or a date range on one screen — won–lost and win rate, set and point difference, side-out and break, aces and serve errors, good passes, kill rate and efficiency, form and streak. Weekly or match-by-match line charts; friendlies in or out.\n• NEW — Server scout: under the courts, where the player about to serve usually serves in this match and past ones, with ace and error rate (“SERVE #9 · mostly Z1 40% · ace 12% · error 18%”). Tap for the zone map. Can be switched off in Settings.\n• NEW — Automatic cloud backup (Settings → Records): every day all your records — matches, teams, practices, player care, calendar, tournament and club — are backed up to our own server, and the previous backup is kept. If the phone is lost, “Restore from the cloud” + the backup key brings them back on a new device. The “Export all records” file now also carries practices, tournaments and the club."
     },
-    "android": "https://volleyapp.mygardrop.com/guncelleme/v0.144.1/voleybol.apk",
-    "androidSha256": "dd15d0d096ebd1238135b1d2ce346aae91917575f5ae99fea4da7419434c4c21",
-    "androidArm64": "https://volleyapp.mygardrop.com/guncelleme/v0.144.1/voleybol-arm64.apk",
-    "androidArm64Sha256": "2aab61cad6cae1bc53d65178ed2cd635249a487897c9a8c04fca795b7baf0a76",
-    "androidArm32": "https://volleyapp.mygardrop.com/guncelleme/v0.144.1/voleybol-arm32.apk",
-    "androidArm32Sha256": "d91066a2c870bce77a3b7062b052516f76d3402dfdbd640caadf73fbe0642817",
-    "windows": "https://volleyapp.mygardrop.com/guncelleme/v0.144.1/voleybol-windows.zip",
-    "windowsSha256": "8630f526849f8c5496ce75a245fc1c21dcf0bbc6b4e8c1036b64be28f048227f"
+    "android": "https://volleyapp.mygardrop.com/guncelleme/v0.145.0/voleybol.apk",
+    "androidSha256": "2363b0168859d3dd1fa1e6847f49849dcfeb3f98ed418a44e83c1f251fd565e0",
+    "androidArm64": "https://volleyapp.mygardrop.com/guncelleme/v0.145.0/voleybol-arm64.apk",
+    "androidArm64Sha256": "5cf2bb269e4adb3c2db7461fa255fe93aace1457d83cdda41cef6fab284c1561",
+    "androidArm32": "https://volleyapp.mygardrop.com/guncelleme/v0.145.0/voleybol-arm32.apk",
+    "androidArm32Sha256": "b90903de3bf21b0640932945af28f1955a1037b3ddef76726a5bff6b58e6c773",
+    "windows": "https://volleyapp.mygardrop.com/guncelleme/v0.145.0/voleybol-windows.zip",
+    "windowsSha256": "5aa56f5a54ae3d15dc3069de669df796780efe2e9796a31f02cae986dc1bab33"
 }
