@@ -1,16 +1,16 @@
 {
-    "version": "0.146.1",
+    "version": "0.150.0",
     "date": "2026-10-05",
     "notes": {
-        "tr": "• Android: tam kurulum paketi yaklaşık 20 MB küçüldü (yalnız telefon ve tablet işlemcileri; emülatör kodu çıkarıldı) — güncellemeler daha çabuk iner ve yayınlanır.",
-        "en": "• Android: the full install package is about 20 MB smaller (phone and tablet processors only; the emulator code is gone) — updates download and publish faster."
+        "tr": "• YENİ — Elektronik maç cetveli (skor ekranında cetvel simgesi; maç özetinde “Maç cetveli”): skor, servis sırası, değişiklikler, molalar, cezalar ve itirazlar maçtan kendiliğinden gelir; siz geri kalanını doldurursunuz — organizasyon, şehir, salon, maç no, kategori, grup; hakemler, sayı hakemleri ve çizgi hakemleri; her takımın listesi (en çok 14 oyuncu, 2 libero uyarısı), kaptan ve 5 takım görevlisi; kura ve seçimi, ısınma biçimi, belirleyici set kurası; açıklamalar.\n• İmzalar ekrana parmakla (bilgisayarda fareyle): maçtan önce antrenör ve kaptanlar takım listesini, maçtan sonra kaptanlar, sayı hakemleri ve hakemler cetveli imzalar. Resmî PDF'te imzalar, imzalayan ve saatiyle yerinde.\n• YENİ — İstisnai değişiklik (FIVB 15.7, oyuncu menüsünde): sakatlanan ve kurala uygun değiştirilemeyen oyuncunun yerine sahada olmayan herhangi bir oyuncu girer; 6 değişiklikten sayılmaz, çıkan oyuncu maçta dönemez, cetvelde “istisnai” diye yazılır.",
+        "en": "• NEW — Electronic scoresheet (scoresheet icon on the score screen; “Scoresheet” in the match summary): score, service order, substitutions, time-outs, sanctions and challenges come from the match; you fill in the rest — competition, city, hall, match no., category, pool; referees, scorers and line judges; each team list (max 14 players, a 2-libero warning), captain and 5 team officials; toss and choice, warm-up, the deciding-set toss; remarks.\n• Signatures on the screen with the finger (the mouse on a PC): before the match the coaches and captains sign the team lists, after it the captains, scorers and referees sign the scoresheet. In the official PDF each signature sits on its line with the signer and the time.\n• NEW — Exceptional substitution (FIVB 15.7, in the player menu): an injured player who cannot be substituted legally is replaced by any player not on court; not one of the 6 substitutions, the player may not return, marked “exceptional” on the scoresheet."
     },
-    "android": "https://volleyapp.mygardrop.com/guncelleme/v0.146.1/voleybol.apk",
-    "androidSha256": "4fde2d2a7f154b4ea84b163bf7165d1b229deff5bec46d85b1f204f9c05b9c47",
-    "androidArm64": "https://volleyapp.mygardrop.com/guncelleme/v0.146.1/voleybol-arm64.apk",
-    "androidArm64Sha256": "cffc932669f32f84175a778380fda391f1401cd284281d8a7a7e59f31f3c05c7",
-    "androidArm32": "https://volleyapp.mygardrop.com/guncelleme/v0.146.1/voleybol-arm32.apk",
-    "androidArm32Sha256": "b23d7e1697abfe84c3923a222f60878e90c2e446c736579beabfc0a6fdf0935f",
-    "windows": "https://volleyapp.mygardrop.com/guncelleme/v0.146.1/voleybol-windows.zip",
-    "windowsSha256": "4141d36773c6373e4a260714136839b78e808b2bf12e008e23fcc7b95003a952"
+    "android": "https://volleyapp.mygardrop.com/guncelleme/v0.150.0/voleybol.apk",
+    "androidSha256": "bc4c36141e2e45d739192fb8541955013ea79be4f2d351a068dfc59a056552ef",
+    "androidArm64": "https://volleyapp.mygardrop.com/guncelleme/v0.150.0/voleybol-arm64.apk",
+    "androidArm64Sha256": "718b16bd5a194425db822c0ae4fefd9a11d26ece405d113448fefbf0f56f0af2",
+    "androidArm32": "https://volleyapp.mygardrop.com/guncelleme/v0.150.0/voleybol-arm32.apk",
+    "androidArm32Sha256": "9e248b58263974971e76a071b3e0e91726f6ffc950069b8a0f1f8ae830e488c5",
+    "windows": "https://volleyapp.mygardrop.com/guncelleme/v0.150.0/voleybol-windows.zip",
+    "windowsSha256": "95cc7a8d280477ac79f4c7e0fd152db7420bb4d1e7abf3230ec91567bee0276f"
 }
