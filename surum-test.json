@@ -1,16 +1,16 @@
 {
-    "version": "0.145.0",
+    "version": "0.146.1",
     "date": "2026-10-05",
     "notes": {
-        "tr": "• YENİ — Sezon panosu (Maç geçmişi → grafik simgesi): bir takımın bu sezonu, son 30 günü, tümü ya da seçtiğiniz tarih aralığı tek ekranda — galibiyet–mağlubiyet ve kazanma oranı, set ve sayı farkı, sideout ve break, ace ve servis hatası, iyi karşılama, hücum oranı ve verimi, son maçlar ve seri. Haftalık ya da maç maç çizgi grafikler; hazırlık maçları dahil / hariç.\n• YENİ — Servisçi uyarısı: sahaların altında, servis atacak oyuncunun bu maçta ve geçmiş maçlarda en çok hangi bölgeye attığı, ace ve hata oranı (“SERVİS #9 · çoğu Z1 %40 · ace %12 · hata %18”). Dokununca bölge haritası. Ayarlardan kapatılabilir.\n• YENİ — Otomatik bulut yedeği (Ayarlar → Kayıtlar): her gün bütün kayıtlarınız — maçlar, takımlar, antrenmanlar, oyuncu takibi, takvim, turnuva ve kulüp — kendi sunucumuza yedeklenir, bir önceki yedek de saklanır. Telefon kaybolursa yeni cihazda “Buluttan geri yükle” + yedek anahtarı ile geri gelir. “Tüm kayıtları dışa aktar” dosyası da artık antrenman, turnuva ve kulüp kayıtlarını içeriyor.",
-        "en": "• NEW — Season board (Match history → chart icon): a team's season, last 30 days, everything or a date range on one screen — won–lost and win rate, set and point difference, side-out and break, aces and serve errors, good passes, kill rate and efficiency, form and streak. Weekly or match-by-match line charts; friendlies in or out.\n• NEW — Server scout: under the courts, where the player about to serve usually serves in this match and past ones, with ace and error rate (“SERVE #9 · mostly Z1 40% · ace 12% · error 18%”). Tap for the zone map. Can be switched off in Settings.\n• NEW — Automatic cloud backup (Settings → Records): every day all your records — matches, teams, practices, player care, calendar, tournament and club — are backed up to our own server, and the previous backup is kept. If the phone is lost, “Restore from the cloud” + the backup key brings them back on a new device. The “Export all records” file now also carries practices, tournaments and the club."
+        "tr": "• Android: tam kurulum paketi yaklaşık 20 MB küçüldü (yalnız telefon ve tablet işlemcileri; emülatör kodu çıkarıldı) — güncellemeler daha çabuk iner ve yayınlanır.",
+        "en": "• Android: the full install package is about 20 MB smaller (phone and tablet processors only; the emulator code is gone) — updates download and publish faster."
     },
-    "android": "https://volleyapp.mygardrop.com/guncelleme/v0.145.0/voleybol.apk",
-    "androidSha256": "2363b0168859d3dd1fa1e6847f49849dcfeb3f98ed418a44e83c1f251fd565e0",
-    "androidArm64": "https://volleyapp.mygardrop.com/guncelleme/v0.145.0/voleybol-arm64.apk",
-    "androidArm64Sha256": "5cf2bb269e4adb3c2db7461fa255fe93aace1457d83cdda41cef6fab284c1561",
-    "androidArm32": "https://volleyapp.mygardrop.com/guncelleme/v0.145.0/voleybol-arm32.apk",
-    "androidArm32Sha256": "b90903de3bf21b0640932945af28f1955a1037b3ddef76726a5bff6b58e6c773",
-    "windows": "https://volleyapp.mygardrop.com/guncelleme/v0.145.0/voleybol-windows.zip",
-    "windowsSha256": "5aa56f5a54ae3d15dc3069de669df796780efe2e9796a31f02cae986dc1bab33"
+    "android": "https://volleyapp.mygardrop.com/guncelleme/v0.146.1/voleybol.apk",
+    "androidSha256": "4fde2d2a7f154b4ea84b163bf7165d1b229deff5bec46d85b1f204f9c05b9c47",
+    "androidArm64": "https://volleyapp.mygardrop.com/guncelleme/v0.146.1/voleybol-arm64.apk",
+    "androidArm64Sha256": "cffc932669f32f84175a778380fda391f1401cd284281d8a7a7e59f31f3c05c7",
+    "androidArm32": "https://volleyapp.mygardrop.com/guncelleme/v0.146.1/voleybol-arm32.apk",
+    "androidArm32Sha256": "b23d7e1697abfe84c3923a222f60878e90c2e446c736579beabfc0a6fdf0935f",
+    "windows": "https://volleyapp.mygardrop.com/guncelleme/v0.146.1/voleybol-windows.zip",
+    "windowsSha256": "4141d36773c6373e4a260714136839b78e808b2bf12e008e23fcc7b95003a952"
 }
