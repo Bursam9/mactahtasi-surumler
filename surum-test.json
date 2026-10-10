@@ -1,16 +1,16 @@
 {
-    "version": "0.150.0",
-    "date": "2026-10-05",
+    "version": "0.159.0",
+    "date": "2026-10-10",
     "notes": {
-        "tr": "• YENİ — Elektronik maç cetveli (skor ekranında cetvel simgesi; maç özetinde “Maç cetveli”): skor, servis sırası, değişiklikler, molalar, cezalar ve itirazlar maçtan kendiliğinden gelir; siz geri kalanını doldurursunuz — organizasyon, şehir, salon, maç no, kategori, grup; hakemler, sayı hakemleri ve çizgi hakemleri; her takımın listesi (en çok 14 oyuncu, 2 libero uyarısı), kaptan ve 5 takım görevlisi; kura ve seçimi, ısınma biçimi, belirleyici set kurası; açıklamalar.\n• İmzalar ekrana parmakla (bilgisayarda fareyle): maçtan önce antrenör ve kaptanlar takım listesini, maçtan sonra kaptanlar, sayı hakemleri ve hakemler cetveli imzalar. Resmî PDF'te imzalar, imzalayan ve saatiyle yerinde.\n• YENİ — İstisnai değişiklik (FIVB 15.7, oyuncu menüsünde): sakatlanan ve kurala uygun değiştirilemeyen oyuncunun yerine sahada olmayan herhangi bir oyuncu girer; 6 değişiklikten sayılmaz, çıkan oyuncu maçta dönemez, cetvelde “istisnai” diye yazılır.",
-        "en": "• NEW — Electronic scoresheet (scoresheet icon on the score screen; “Scoresheet” in the match summary): score, service order, substitutions, time-outs, sanctions and challenges come from the match; you fill in the rest — competition, city, hall, match no., category, pool; referees, scorers and line judges; each team list (max 14 players, a 2-libero warning), captain and 5 team officials; toss and choice, warm-up, the deciding-set toss; remarks.\n• Signatures on the screen with the finger (the mouse on a PC): before the match the coaches and captains sign the team lists, after it the captains, scorers and referees sign the scoresheet. In the official PDF each signature sits on its line with the signer and the time.\n• NEW — Exceptional substitution (FIVB 15.7, in the player menu): an injured player who cannot be substituted legally is replaced by any player not on court; not one of the 6 substitutions, the player may not return, marked “exceptional” on the scoresheet."
+        "tr": "• YENİ — Kulüp web sayfası (Kulüp → Takımlar): sunucunuzda kendiliğinden güncellenen basit site — takımlar, yaklaşan maçlar, son sonuçlar ve canlı turnuvalar; üst yazı (ör. seçme günü), bağlantı ve karekod. Oyuncu adı yayınlanmaz; uygulama her gün günceller.",
+        "en": "• NEW — Club web page (Club → Teams): a simple site on your server that updates itself — teams, coming matches, latest results and live tournaments; a header text (e.g. tryout day), link and QR code. No player names are published; the app updates it daily."
     },
-    "android": "https://volleyapp.mygardrop.com/guncelleme/v0.150.0/voleybol.apk",
-    "androidSha256": "bc4c36141e2e45d739192fb8541955013ea79be4f2d351a068dfc59a056552ef",
-    "androidArm64": "https://volleyapp.mygardrop.com/guncelleme/v0.150.0/voleybol-arm64.apk",
-    "androidArm64Sha256": "718b16bd5a194425db822c0ae4fefd9a11d26ece405d113448fefbf0f56f0af2",
-    "androidArm32": "https://volleyapp.mygardrop.com/guncelleme/v0.150.0/voleybol-arm32.apk",
-    "androidArm32Sha256": "9e248b58263974971e76a071b3e0e91726f6ffc950069b8a0f1f8ae830e488c5",
-    "windows": "https://volleyapp.mygardrop.com/guncelleme/v0.150.0/voleybol-windows.zip",
-    "windowsSha256": "95cc7a8d280477ac79f4c7e0fd152db7420bb4d1e7abf3230ec91567bee0276f"
+    "android": "https://volleyapp.mygardrop.com/guncelleme/v0.159.0/voleybol.apk",
+    "androidSha256": "9eb41262a24fd6fe84579e5132c924301fb40fbce76187ea92ee12edc60453f3",
+    "androidArm64": "https://volleyapp.mygardrop.com/guncelleme/v0.159.0/voleybol-arm64.apk",
+    "androidArm64Sha256": "018ca0f6fb6440b3baf6fbf32ce283b0d187dc4c5f35e8553b94e4b9d9dcab0e",
+    "androidArm32": "https://volleyapp.mygardrop.com/guncelleme/v0.159.0/voleybol-arm32.apk",
+    "androidArm32Sha256": "b4be26757bcc223fdb9fa0b99ff334e94969fc64ae5de09811d218df3a8b15be",
+    "windows": "https://volleyapp.mygardrop.com/guncelleme/v0.159.0/voleybol-windows.zip",
+    "windowsSha256": "9eac936b90aaf72e12643e0601fbf108a9d87cd3dfaaf5df8a8fea703268ba75"
 }
