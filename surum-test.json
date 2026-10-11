@@ -1,16 +1,16 @@
 {
-    "version": "0.159.0",
-    "date": "2026-10-10",
+    "version": "0.163.0",
+    "date": "2026-10-11",
     "notes": {
-        "tr": "• YENİ — Kulüp web sayfası (Kulüp → Takımlar): sunucunuzda kendiliğinden güncellenen basit site — takımlar, yaklaşan maçlar, son sonuçlar ve canlı turnuvalar; üst yazı (ör. seçme günü), bağlantı ve karekod. Oyuncu adı yayınlanmaz; uygulama her gün günceller.",
-        "en": "• NEW — Club web page (Club → Teams): a simple site on your server that updates itself — teams, coming matches, latest results and live tournaments; a header text (e.g. tryout day), link and QR code. No player names are published; the app updates it daily."
+        "tr": "• YENİ — Lisans seviyeleri: Temel, PRO, PRO+ ve Elit. Temel: skor, kurallar, Basit mod (skor + rotasyon yerleri), temel oyuncu istatistiği, PDF rapor, paylaşım kartları, yedekleme. PRO: ralli ekranı, analizler, mola asistanı, rakip dosyası, sezon panosu, video eşleme, maç cetveli, canlı skor. PRO+: antrenman modu ve oyuncu takibi. Elit: çizim tahtası, video asistanı, klip kesme, kulüp ve turnuva yönetimi, Basit modda pozisyon takibi ve dizilim şablonları.\n• Seviyenizde olmayan bir düğmeye dokununca hangi seviyeyle geldiği yazar; “Yükseltme iste” ile talep gönderilir, onaylanınca yeni lisans kendiliğinden gelir. Lisans ekranında seviyeniz görünür.\n• Bu sürümden önce verilen lisanslar süreleri bitene kadar bugüne kadarki bütün özellikleri kullanmaya devam eder.\n• DÜZELTME — Telefonda ana ekranın sol üstündeki ANTRENMAN yazısı dar çubuğa sığmıyordu.",
+        "en": "• NEW — Licence levels: Temel, PRO, PRO+ and Elit. Temel: score, rules, simple mode (score + rotation spots), basic player stats, PDF report, share cards, backups. PRO: rally screen, analyses, timeout assistant, opponent dossier, season board, video sync, scoresheet, live score. PRO+: training mode and player care. Elit: tactics board, video assistant, clip cutting, club and tournament management, simple-mode position tracking and formation templates.\n• Tap a button above your level and it says which level brings it; “Ask for an upgrade” sends a request and the new licence arrives by itself once approved. The licence screen shows your level.\n• Licences issued before this version keep every feature they had until they end.\n• FIX — On a phone the TRAINING label at the top left of the home screen did not fit the narrow bar."
     },
-    "android": "https://volleyapp.mygardrop.com/guncelleme/v0.159.0/voleybol.apk",
-    "androidSha256": "9eb41262a24fd6fe84579e5132c924301fb40fbce76187ea92ee12edc60453f3",
-    "androidArm64": "https://volleyapp.mygardrop.com/guncelleme/v0.159.0/voleybol-arm64.apk",
-    "androidArm64Sha256": "018ca0f6fb6440b3baf6fbf32ce283b0d187dc4c5f35e8553b94e4b9d9dcab0e",
-    "androidArm32": "https://volleyapp.mygardrop.com/guncelleme/v0.159.0/voleybol-arm32.apk",
-    "androidArm32Sha256": "b4be26757bcc223fdb9fa0b99ff334e94969fc64ae5de09811d218df3a8b15be",
-    "windows": "https://volleyapp.mygardrop.com/guncelleme/v0.159.0/voleybol-windows.zip",
-    "windowsSha256": "9eac936b90aaf72e12643e0601fbf108a9d87cd3dfaaf5df8a8fea703268ba75"
+    "android": "https://volleyapp.mygardrop.com/guncelleme/v0.163.0/voleybol.apk",
+    "androidSha256": "539d97f6e1da47fbf41572bb85cb7ca3016637038f904ca0b0a62b8bafecb6ad",
+    "androidArm64": "https://volleyapp.mygardrop.com/guncelleme/v0.163.0/voleybol-arm64.apk",
+    "androidArm64Sha256": "815d42b01df38a074215a7b46d9f14acdffc683f7c66e0a6adfd25835195ca4f",
+    "androidArm32": "https://volleyapp.mygardrop.com/guncelleme/v0.163.0/voleybol-arm32.apk",
+    "androidArm32Sha256": "8d09105661fd902790db333519d6d5ac44cd58406775e6df7ae438520faee49e",
+    "windows": "https://volleyapp.mygardrop.com/guncelleme/v0.163.0/voleybol-windows.zip",
+    "windowsSha256": "41db0f3a44d9b4c8fbb3e99539bbaf3412775793571dcb3137e7f265545ff5df"
 }
