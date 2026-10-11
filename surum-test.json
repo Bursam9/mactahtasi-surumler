@@ -1,16 +1,16 @@
 {
-    "version": "0.163.0",
+    "version": "0.163.2",
     "date": "2026-10-11",
     "notes": {
-        "tr": "• YENİ — Lisans seviyeleri: Temel, PRO, PRO+ ve Elit. Temel: skor, kurallar, Basit mod (skor + rotasyon yerleri), temel oyuncu istatistiği, PDF rapor, paylaşım kartları, yedekleme. PRO: ralli ekranı, analizler, mola asistanı, rakip dosyası, sezon panosu, video eşleme, maç cetveli, canlı skor. PRO+: antrenman modu ve oyuncu takibi. Elit: çizim tahtası, video asistanı, klip kesme, kulüp ve turnuva yönetimi, Basit modda pozisyon takibi ve dizilim şablonları.\n• Seviyenizde olmayan bir düğmeye dokununca hangi seviyeyle geldiği yazar; “Yükseltme iste” ile talep gönderilir, onaylanınca yeni lisans kendiliğinden gelir. Lisans ekranında seviyeniz görünür.\n• Bu sürümden önce verilen lisanslar süreleri bitene kadar bugüne kadarki bütün özellikleri kullanmaya devam eder.\n• DÜZELTME — Telefonda ana ekranın sol üstündeki ANTRENMAN yazısı dar çubuğa sığmıyordu.",
-        "en": "• NEW — Licence levels: Temel, PRO, PRO+ and Elit. Temel: score, rules, simple mode (score + rotation spots), basic player stats, PDF report, share cards, backups. PRO: rally screen, analyses, timeout assistant, opponent dossier, season board, video sync, scoresheet, live score. PRO+: training mode and player care. Elit: tactics board, video assistant, clip cutting, club and tournament management, simple-mode position tracking and formation templates.\n• Tap a button above your level and it says which level brings it; “Ask for an upgrade” sends a request and the new licence arrives by itself once approved. The licence screen shows your level.\n• Licences issued before this version keep every feature they had until they end.\n• FIX — On a phone the TRAINING label at the top left of the home screen did not fit the narrow bar."
+        "tr": "• Lisans askıya alınabilir: bir sorun ya da ödeme gecikmesinde kullanım durdurulur, kayıtlar silinmez; yeniden açılınca uygulama aynı seviye ve aynı bitişle kendiliğinden devam eder.",
+        "en": "• A licence can be suspended: in case of a problem or a late payment use is stopped and no records are deleted; once it is reopened the app continues by itself with the same level and end date."
     },
-    "android": "https://volleyapp.mygardrop.com/guncelleme/v0.163.0/voleybol.apk",
-    "androidSha256": "539d97f6e1da47fbf41572bb85cb7ca3016637038f904ca0b0a62b8bafecb6ad",
-    "androidArm64": "https://volleyapp.mygardrop.com/guncelleme/v0.163.0/voleybol-arm64.apk",
-    "androidArm64Sha256": "815d42b01df38a074215a7b46d9f14acdffc683f7c66e0a6adfd25835195ca4f",
-    "androidArm32": "https://volleyapp.mygardrop.com/guncelleme/v0.163.0/voleybol-arm32.apk",
-    "androidArm32Sha256": "8d09105661fd902790db333519d6d5ac44cd58406775e6df7ae438520faee49e",
-    "windows": "https://volleyapp.mygardrop.com/guncelleme/v0.163.0/voleybol-windows.zip",
-    "windowsSha256": "41db0f3a44d9b4c8fbb3e99539bbaf3412775793571dcb3137e7f265545ff5df"
+    "android": "https://volleyapp.mygardrop.com/guncelleme/v0.163.2/voleybol.apk",
+    "androidSha256": "a3d51ddf480e19c1c88c841c8d61b0d6e624e04f4ebcae90f13523f4a2a82dad",
+    "androidArm64": "https://volleyapp.mygardrop.com/guncelleme/v0.163.2/voleybol-arm64.apk",
+    "androidArm64Sha256": "31f13ffd6d58d1d0b97b286be92eb27bc9f7f25a2493d86716580f37514d0cb1",
+    "androidArm32": "https://volleyapp.mygardrop.com/guncelleme/v0.163.2/voleybol-arm32.apk",
+    "androidArm32Sha256": "d8f0ca2f3572900adbbaf2fcc95e303c1945c03cf8bfd0d3ed63c46614f97632",
+    "windows": "https://volleyapp.mygardrop.com/guncelleme/v0.163.2/voleybol-windows.zip",
+    "windowsSha256": "a0f64498e13c8edc61845655a2986bef1dd4a99b63ad7bde5c8b10afc0766c5e"
 }
