@@ -1,16 +1,16 @@
 {
-    "version": "0.163.2",
-    "date": "2026-10-11",
+    "version": "0.164.0",
+    "date": "2026-10-12",
     "notes": {
-        "tr": "• Lisans askıya alınabilir: bir sorun ya da ödeme gecikmesinde kullanım durdurulur, kayıtlar silinmez; yeniden açılınca uygulama aynı seviye ve aynı bitişle kendiliğinden devam eder.",
-        "en": "• A licence can be suspended: in case of a problem or a late payment use is stopped and no records are deleted; once it is reopened the app continues by itself with the same level and end date."
+        "tr": "• YENİ — Servis planı (PRO, üst çubukta hedef simgesi): rakibin her rotasyonu için hedef bölge ve / veya karşılayıcı ve not. Biz servis atarken sahaların altında “PLAN · rakip R3 · Z5 · #7” görünür; analizde plana uyum yüzdesi, uyulunca ve uyulmayınca break ve karşılama. “Geçmişten öner” rakibin en kötü karşıladığı bölge ve oyuncuyu yazar; plan rakip başına saklanır, sonraki maçta da gelir.\n• YENİ — Servis türü (float / sıçrayarak / sıçrayıp float / alttan): oyuncu menüsünden oyuncunun alışık türü bir kez seçilir, her serviste kendiliğinden yazılır; farklı bir servis için sahaların altındaki şeritten ya da servis bölgesi penceresinden. Analizde türe göre ace, hata, rakibin karşılaması ve break.\n• YENİ — Karşılayıcı yükü: rakip servisinin kime gittiği, oyuncu oyuncu karşılama ortalaması; bir oyuncu hedef alınınca (payı yüksek, karşılaması zayıf) maç içinde sahaların altında uyarı.",
+        "en": "• NEW — Serve plan (PRO, target icon in the top bar): a target zone and / or receiver and a note for every rotation of the opponent. While we serve, “PLAN · opp. R3 · Z5 · #7” shows under the courts; the analysis gives the follow rate and break and passing when followed and not. “Suggest from past matches” fills in the opponent's weakest passing zone and receiver; the plan is kept per opponent for the next game.\n• NEW — Serve type (float / jump / jump float / underhand): pick the player's usual type once in the player menu and it goes with every serve; a different serve from the strip under the courts or the serve zone window. The analysis shows aces, errors, the opponent's passing and break by type.\n• NEW — Receiver load: who the opponent serves at and each player's pass average; when a player is targeted (high share, weak passing) a warning appears under the courts during the match."
     },
-    "android": "https://volleyapp.mygardrop.com/guncelleme/v0.163.2/voleybol.apk",
-    "androidSha256": "a3d51ddf480e19c1c88c841c8d61b0d6e624e04f4ebcae90f13523f4a2a82dad",
-    "androidArm64": "https://volleyapp.mygardrop.com/guncelleme/v0.163.2/voleybol-arm64.apk",
-    "androidArm64Sha256": "31f13ffd6d58d1d0b97b286be92eb27bc9f7f25a2493d86716580f37514d0cb1",
-    "androidArm32": "https://volleyapp.mygardrop.com/guncelleme/v0.163.2/voleybol-arm32.apk",
-    "androidArm32Sha256": "d8f0ca2f3572900adbbaf2fcc95e303c1945c03cf8bfd0d3ed63c46614f97632",
-    "windows": "https://volleyapp.mygardrop.com/guncelleme/v0.163.2/voleybol-windows.zip",
-    "windowsSha256": "a0f64498e13c8edc61845655a2986bef1dd4a99b63ad7bde5c8b10afc0766c5e"
+    "android": "https://volleyapp.mygardrop.com/guncelleme/v0.164.0/voleybol.apk",
+    "androidSha256": "3719bf97786fc1eb75d5f075fcecfea8498bde9d22d2073e5e88eb56e4688425",
+    "androidArm64": "https://volleyapp.mygardrop.com/guncelleme/v0.164.0/voleybol-arm64.apk",
+    "androidArm64Sha256": "b9d418f4a0b496fd1772d3b8ec66b2ba04ab02c95c3f1b224877af497b99a0ca",
+    "androidArm32": "https://volleyapp.mygardrop.com/guncelleme/v0.164.0/voleybol-arm32.apk",
+    "androidArm32Sha256": "29874605f563389b38ecfd15d45853f4d28c9198aa0dff53355b12f8e844d2c3",
+    "windows": "https://volleyapp.mygardrop.com/guncelleme/v0.164.0/voleybol-windows.zip",
+    "windowsSha256": "c37644e66a2a8a96f3f7d377965990299a9be248c1c20b9e829ab398f069da32"
 }
