@@ -1,16 +1,16 @@
 {
-    "version": "0.167.1",
+    "version": "0.168.0",
     "date": "2026-10-12",
     "notes": {
-        "tr": "• YENİ — Savunma yerleri (Elit, Basit mod): “Servis bizde / Servis karşıda” yanına üçüncü durum “Savunmada” — rakip hücumdayken altıların duruşu. Savunma düğmesiyle sahada görünür, sürükleyerek değişir; Hazır ile çevre (2-4), rotasyonel ya da 6 ileri. Dizilim şablonları ve takım kaydı savunma yerlerini de taşır.\n• YENİ — Rotasyon geçişi (Elit): bir rotasyon seçilir, oyuncular karşılama ya da servis yerinden savunma yerine yürüyen oklarla çizim tahtasında açılır; Oynat ile izlenir, menüden GIF olarak oyunculara gönderilir.",
-        "en": "• NEW — Defence spots (Elit, Simple mode): next to “Serving / Receiving” a third state “Defending” — where the six stand while the other team attacks. The Defence button shows them on the court, drag to change; Ready offers perimeter (2-4), rotational or 6 up. Formation templates and the team's saved spots carry them too.\n• NEW — Rotation transition (Elit): pick a rotation and the players walk from their reception or serve spots to their defence spots on the tactics board; watch it with Play and send it to the players as a GIF from the menu."
+        "tr": "• YENİ — Ön hat blok eşleşmesi (PRO, üst çubukta el simgesi): filede bizim üç ön oyuncu rakibin üçünün karşısında — boy / erişim farkı, rakibin bu maçtaki sayıları; tehlikeli hücumcuya kısa blokçu düşerse sahaların altında uyarı. Maçta karşılaşılan rotasyon çiftleri ve kazanılan sayılar.\n• YENİ — Uzman değişikliği planı (PRO, değişiklik penceresinde): servis ya da savunma uzmanı kimin yerine girecek; sırası gelince sahaların altında hatırlatma, “Yap” ile değişiklik, 6 hak ve değişiklik ikilisi denetlenir.\n• YENİ — Set sonu ve kritik anlar (PRO, analiz): 20'den sonra (karar setinde 10'dan sonra) oynanan ralliler setin geri kalanıyla karşılaştırılır; kritik anlarda en verimli hücumcu.\n• Giriş ekranında “Maç Tahtası” yerine her stilde dillere göre dönüşümlü “VOLEYBOL”. Canlı sahada oyuncular yenilendi: forma, şort, eklemler, koşu, sıçrayıp smaç, blok, yere çökerek savunma, topta iz.\n• Sürümler ekranında fiyatlar ilk bakışta görünmez: her sürümün özelliklerinin altında “Üyelik seçenekleri” — 1, 3, 6, 12 aylık üyelikler ve seçilen üyelik için talep.",
+        "en": "• NEW — Front-row block matchups (PRO, hand icon in the top bar): our three front players against theirs at the net — height / reach gap, their kills in this match; a dangerous attacker against a short blocker shows a warning under the courts. The rotation pairings of the match and the points won in them.\n• NEW — Specialist substitution plan (PRO, in the substitution sheet): which serving or defensive specialist comes in for whom; when it is time a reminder appears under the courts, “Do it” makes the substitution, the six substitutions and the pairs are checked.\n• NEW — Set ends and critical moments (PRO, analysis): rallies from 20 on (10 in the deciding set) against the rest; the best attacker in those moments.\n• The home screen shows “VOLLEYBALL” in turn in several languages in every style instead of “Maç Tahtası”. Live court players redone: jersey, shorts, joints, running, jump and spike, block, diving dig, a ball trail.\n• Editions screen: prices are not shown at first sight — under each edition's features “Membership options” lists 1, 3, 6 and 12-month memberships and makes the request for the one picked."
     },
-    "android": "https://volleyapp.mygardrop.com/guncelleme/v0.167.1/voleybol.apk",
-    "androidSha256": "bb6568165b9fe2f55a88fb951c3915d167e10998103c4af5c553502b63e5fa9e",
-    "androidArm64": "https://volleyapp.mygardrop.com/guncelleme/v0.167.1/voleybol-arm64.apk",
-    "androidArm64Sha256": "7ec858f7b435ceba50caabd62e0c429418ba2e60ede50a6a780768130b4e60d5",
-    "androidArm32": "https://volleyapp.mygardrop.com/guncelleme/v0.167.1/voleybol-arm32.apk",
-    "androidArm32Sha256": "ba8fb40117adabf17032f77d217d0abf99ad2df6b4b744667b454eead1e8f412",
-    "windows": "https://volleyapp.mygardrop.com/guncelleme/v0.167.1/voleybol-windows.zip",
-    "windowsSha256": "6b1a1f31026ef7f0b23def3263b68e5589be5ab1e456d7c35177e3db284692b3"
+    "android": "https://volleyapp.mygardrop.com/guncelleme/v0.168.0/voleybol.apk",
+    "androidSha256": "125f3ed250dbe8b4076a8cc37e4e5efc8e8f9dc8c3a8ec586feb9777d7f1430f",
+    "androidArm64": "https://volleyapp.mygardrop.com/guncelleme/v0.168.0/voleybol-arm64.apk",
+    "androidArm64Sha256": "c037a6030cf1c8d506bad50aa61c87100bae882566c8f558071d95e380360d28",
+    "androidArm32": "https://volleyapp.mygardrop.com/guncelleme/v0.168.0/voleybol-arm32.apk",
+    "androidArm32Sha256": "bddb292fe53965fba2f2ace971bbd3a0095284d28d5647c292a602234a11224d",
+    "windows": "https://volleyapp.mygardrop.com/guncelleme/v0.168.0/voleybol-windows.zip",
+    "windowsSha256": "458bb62be2dd8160df0ffdf76dcb61717655daef36e2ae49cce2e9aa725fd99a"
 }
