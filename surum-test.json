@@ -1,16 +1,16 @@
 {
-    "version": "0.165.0",
+    "version": "0.166.0",
     "date": "2026-10-12",
     "notes": {
-        "tr": "• YENİ — Ana ekranda “Kullandığınız sürüm” kutusu: dokununca Sürümler ve fiyatlar ekranı (Temel / PRO / PRO+ / Elit, her birinin getirdikleri ve fiyatı); “Sürüm farkları” kutuyu açar / kapatır.\n• YENİ — “Tüm sürümleri karşılaştır”: her özellik bir satırda, hangi sürümde olduğu işaretli.\n• YENİ — Sürüm geçiş talebi: ad, telefon, kulüp ve notla gönderilir (internet yoksa sırada bekler, WhatsApp ile de olur); kilitli bir özelliğin penceresinde de “Sürümler ve fiyatlar” düğmesi var.",
-        "en": "• NEW — “Your edition” box on the home screen: a tap opens Editions and prices (Temel / PRO / PRO+ / Elit, what each adds and its price); “Differences” folds the box open / shut.\n• NEW — “Compare all editions”: every feature in a row, marked under the editions that have it.\n• NEW — Upgrade request: sent with your name, phone, club and a note (queued when offline, WhatsApp works too); a locked feature's window has an “Editions and prices” button as well."
+        "tr": "• YENİ — Karşılama dizilişi verimi (Elit, Sayı sayı dizilim): servis karşıdayken oynanan sayılar dizilişlerine göre — uygulanan şablonun adıyla ya da “5 / 4 / 3 kişilik karşılama” — sideout yüzdesi ve karşılama ortalamasıyla; satıra dokununca o sayılar.\n• YENİ — Basit modda rakibin rotasyonu: Sayı sayı dizilimde “Rakibin rotasyonuna göre” tablosu (rakip hangi rotasyonda bize sayı veriyor); sahada iki takım için de “Servis: #n” / “Sıradaki servisçi: #n”.",
+        "en": "• NEW — Reception formation efficiency (Elit, Point-by-point positions): points received grouped by formation — the applied template's name or “5 / 4 / 3-player reception” — with side-out % and pass average; tap a row for those points.\n• NEW — The opponent's rotation in Simple mode: a “By the opponent's rotation” table in Point-by-point positions (which of their rotations gives us points); “Serving: #n” / “Next server: #n” for both teams on the court."
     },
-    "android": "https://volleyapp.mygardrop.com/guncelleme/v0.165.0/voleybol.apk",
-    "androidSha256": "cf7e385ecf26cc6b19568fba14a82c24e5e3038c423f53da73794f996c500e95",
-    "androidArm64": "https://volleyapp.mygardrop.com/guncelleme/v0.165.0/voleybol-arm64.apk",
-    "androidArm64Sha256": "a0aaef4f839736f7f4ed2cc907552b0f5916ac21d2b7d32204e2a19e89be15d5",
-    "androidArm32": "https://volleyapp.mygardrop.com/guncelleme/v0.165.0/voleybol-arm32.apk",
-    "androidArm32Sha256": "63ed608a2e61379f6ef2640212b91b2a6bb3820828c0201a94475d4e76f99724",
-    "windows": "https://volleyapp.mygardrop.com/guncelleme/v0.165.0/voleybol-windows.zip",
-    "windowsSha256": "44254fa456ef10e67a96d1ef509a740b2f2b0f3cacfd8e2fe360ba8628322a4f"
+    "android": "https://volleyapp.mygardrop.com/guncelleme/v0.166.0/voleybol.apk",
+    "androidSha256": "0640c0fade5d346cc6caf686c6267a14d8956bf8e89194bdc99ea36517bf84dd",
+    "androidArm64": "https://volleyapp.mygardrop.com/guncelleme/v0.166.0/voleybol-arm64.apk",
+    "androidArm64Sha256": "30184f0f70954c057f2a95fa7c9facd99cca052cda6454d28fd60f6f63a5dc82",
+    "androidArm32": "https://volleyapp.mygardrop.com/guncelleme/v0.166.0/voleybol-arm32.apk",
+    "androidArm32Sha256": "1040a365f5ab537670a5453e8afb77ff32e9fc1b338db5b4375f34f67895c946",
+    "windows": "https://volleyapp.mygardrop.com/guncelleme/v0.166.0/voleybol-windows.zip",
+    "windowsSha256": "f07c8212f21622577f8f900c7b4f9427f872c12adafc67fdb71e034c8fe86b3a"
 }
