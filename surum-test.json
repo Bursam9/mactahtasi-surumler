@@ -1,16 +1,16 @@
 {
-    "version": "0.168.0",
-    "date": "2026-10-12",
+    "version": "0.169.0",
+    "date": "2026-10-13",
     "notes": {
-        "tr": "• YENİ — Ön hat blok eşleşmesi (PRO, üst çubukta el simgesi): filede bizim üç ön oyuncu rakibin üçünün karşısında — boy / erişim farkı, rakibin bu maçtaki sayıları; tehlikeli hücumcuya kısa blokçu düşerse sahaların altında uyarı. Maçta karşılaşılan rotasyon çiftleri ve kazanılan sayılar.\n• YENİ — Uzman değişikliği planı (PRO, değişiklik penceresinde): servis ya da savunma uzmanı kimin yerine girecek; sırası gelince sahaların altında hatırlatma, “Yap” ile değişiklik, 6 hak ve değişiklik ikilisi denetlenir.\n• YENİ — Set sonu ve kritik anlar (PRO, analiz): 20'den sonra (karar setinde 10'dan sonra) oynanan ralliler setin geri kalanıyla karşılaştırılır; kritik anlarda en verimli hücumcu.\n• Giriş ekranında “Maç Tahtası” yerine her stilde dillere göre dönüşümlü “VOLEYBOL”. Canlı sahada oyuncular yenilendi: forma, şort, eklemler, koşu, sıçrayıp smaç, blok, yere çökerek savunma, topta iz.\n• Sürümler ekranında fiyatlar ilk bakışta görünmez: her sürümün özelliklerinin altında “Üyelik seçenekleri” — 1, 3, 6, 12 aylık üyelikler ve seçilen üyelik için talep.",
-        "en": "• NEW — Front-row block matchups (PRO, hand icon in the top bar): our three front players against theirs at the net — height / reach gap, their kills in this match; a dangerous attacker against a short blocker shows a warning under the courts. The rotation pairings of the match and the points won in them.\n• NEW — Specialist substitution plan (PRO, in the substitution sheet): which serving or defensive specialist comes in for whom; when it is time a reminder appears under the courts, “Do it” makes the substitution, the six substitutions and the pairs are checked.\n• NEW — Set ends and critical moments (PRO, analysis): rallies from 20 on (10 in the deciding set) against the rest; the best attacker in those moments.\n• The home screen shows “VOLLEYBALL” in turn in several languages in every style instead of “Maç Tahtası”. Live court players redone: jersey, shorts, joints, running, jump and spike, block, diving dig, a ball trail.\n• Editions screen: prices are not shown at first sight — under each edition's features “Membership options” lists 1, 3, 6 and 12-month memberships and makes the request for the one picked."
+        "tr": "• Savunma yerleri göreve göre: arka hatta köşe oyuncusu 6, orta oyuncu ya da libero 5, pasör ve çapraz 1; ön hatta çapraz 2, orta 3, köşe 4.\n• YENİ — Savunmada hücum yönü: 4, 3, 2, pipe ya da 1'den gelen hücum için ayrı ayrı yerleşim; sahada hücumun nereden vurulup nereye gittiği okla gösterilir. Şablonlar ve takım kaydı hepsini taşır.\n• Canlı sahada hücum her rallide başka yerden: 4, 3'ten çabuk, pipe, 2, arka hattan 1 ve 5; blok hücumcuya kayar, savunmacı topa koşar.\n• Aidat: “Takımlarım” ile kendi takımlarınızı seçin — aidata yalnız onların oyuncuları gelir, maçta ya da kadroda eklenen oyuncu kendiliğinden girer, rakipler girmez. Aynı isim birden fazla takımdaysa “aynı oyuncu mu, farklı mı” sorulur. Oyuncular takım adlarının altında listelenir.\n• YENİ — Geri bildirimlerinize verilen yanıtlar uygulamada: yeni yanıt ana ekranda bir kez gösterilir, hepsi Geri bildirim ekranında “Yanıtlar” altında.",
+        "en": "• Defence spots by role: back row — outside hitter 6, middle or libero 5, setter and opposite 1; front row — opposite 2, middle 3, outside 4.\n• NEW — Defence by attack place: a separate arrangement for an attack from 4, 3, 2, a pipe or 1; an arrow on the court shows where it is hit from and where it goes. Templates and the team's saved spots carry them all.\n• Live court: every rally is attacked from another place — 4, a quick in 3, a pipe, 2, back-row 1 and 5; the block slides to the hitter, the digger runs to the ball.\n• Dues: pick your own teams with “My teams” — only their players are listed, a player added in a match or on the roster comes in by itself, opponents stay out. A name found in several teams asks “same player or different?”. Players are listed under the team names.\n• NEW — Replies to your feedback in the app: a new reply shows once on the home screen, all of them under “Replies” on the feedback screen."
     },
-    "android": "https://volleyapp.mygardrop.com/guncelleme/v0.168.0/voleybol.apk",
-    "androidSha256": "125f3ed250dbe8b4076a8cc37e4e5efc8e8f9dc8c3a8ec586feb9777d7f1430f",
-    "androidArm64": "https://volleyapp.mygardrop.com/guncelleme/v0.168.0/voleybol-arm64.apk",
-    "androidArm64Sha256": "c037a6030cf1c8d506bad50aa61c87100bae882566c8f558071d95e380360d28",
-    "androidArm32": "https://volleyapp.mygardrop.com/guncelleme/v0.168.0/voleybol-arm32.apk",
-    "androidArm32Sha256": "bddb292fe53965fba2f2ace971bbd3a0095284d28d5647c292a602234a11224d",
-    "windows": "https://volleyapp.mygardrop.com/guncelleme/v0.168.0/voleybol-windows.zip",
-    "windowsSha256": "458bb62be2dd8160df0ffdf76dcb61717655daef36e2ae49cce2e9aa725fd99a"
+    "android": "https://volleyapp.mygardrop.com/guncelleme/v0.169.0/voleybol.apk",
+    "androidSha256": "b3c35220e50c91bfed0cb0c34d174bf6919ceffb5584e8ab68b433918412e68e",
+    "androidArm64": "https://volleyapp.mygardrop.com/guncelleme/v0.169.0/voleybol-arm64.apk",
+    "androidArm64Sha256": "791cef07b0d25cded789a8c7c473c24734b657b9553af2d1e2353debaf0d246b",
+    "androidArm32": "https://volleyapp.mygardrop.com/guncelleme/v0.169.0/voleybol-arm32.apk",
+    "androidArm32Sha256": "ece52c215d6ddb416d8c26321128d409d42eec387f5876d9740c06767c6c34a0",
+    "windows": "https://volleyapp.mygardrop.com/guncelleme/v0.169.0/voleybol-windows.zip",
+    "windowsSha256": "431a32c0ca4dc9a0fe86fe7d1d299b69288882c65ad00684435bce30bd1acc89"
 }
