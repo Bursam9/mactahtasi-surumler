@@ -1,16 +1,16 @@
 {
-    "version": "0.172.1",
-    "date": "2026-10-18",
+    "version": "0.173.0",
+    "date": "2026-10-19",
     "notes": {
-        "tr": "• Kulüp → Takımlar yenilendi: takımlar yaş grubuna göre gruplu, her takım bir kart (renk / logo, antrenör, oyuncu, libero, diziliş, maç ve antrenman sayısı). Karta dokununca oyuncular görevleriyle ve kayıtlı dizilişler görünür.\n• YENİ — Oyuncuları düzenle: kayıtlı takıma oyuncu ekle / çıkar, numara ve ad yaz, görevlerine dokun (P, Pç, O, K, L; birden çok seçilebilir). Aynı numara iki kez yazılırsa uyarır; kaydetmeden çıkarken sorar.\n• Kulüp ekranından yeni takım eklenir ve takım (sorarak) silinir; antrenör ve yaş grubu ayrı düğmede.",
-        "en": "• Club → Teams redone: teams grouped by age group, one card per team (colours / logo, coach, players, liberos, lineups, matches and practices). Tap a card to see the players with their roles and the saved lineups.\n• NEW — Edit players: add / remove players of a saved team, type the number and name, tap the roles (P, Opp, O, K, L; several allowed). Warns about a number used twice and asks before leaving unsaved.\n• Add a new team or delete one (asked first) from the club screen; the coach and age group have their own button."
+        "tr": "• YENİ — Blok aut: +1 sonrası u201cBlok autu201d seçeneği (adım adım soruda, tek ekranda sayıda ve oyuncu menüsünde). Smaçöre blok autla sayı, rakip blokçuya u201cbloğundan autu201d yazılır. İstatistiklerde görünür: maç özeti tablosunda BA+ / BA−, oyuncu kartı, set analizi, CSV.\n• YENİ — Set durumu ve kritik uyarılar: set çubuğunda her zaman görünen düğme (kırmızı = set / maç topu ya da uzun seri, turuncu = uyarı). Dokununca: uyarılar (set topu, seri ve kalan mola, değişiklik hakkı, servis hataları, zayıf karşılama, zayıf rotasyon, kritik bölgede en etkili oyuncu, karar setinde 8'de taraf değişimi) ve iki takımın son 8 sayısı, mola, değişiklik, hata, karşılama, rotasyon, en çok smaç. Telefonda en önemli uyarı set çubuğunun altında yazılı.\n• Set sonu ekranı tek bakışta: skor, kazanan, set süresi, mola sayacı ve u201cŞimdi başlau201d yan yana; ilk servis, set değerlendirmesi (iki takım yan yana) aynı ekranda — kaydırmaya gerek yok. Geniş ekranda iki sütun.\n• Maç sonu ekranı: kazanan, bütün setlerin skoru, iki takımın smaç / ace / blok / hata sayıları ve en skorer oyuncusu, maç değerlendirmesi ve u201cMaçı Bitiru201d tek ekranda.\n• Düzeltmeler: PDF raporunda blok sütunu hep 0 görünüyordu; telefonda üst çubukta u201cGeri alu201d yerine u201cİleri alu201d kalıyordu.",
+        "en": "• NEW — Block-out: after +1 a u201cBlock-outu201d choice (step by step, the one-screen point and the player menu). The attacker gets a block-out kill, the opponent's blocker an u201cout off the blocku201d. Shown in the stats: BO+ / BO− in the summary table, the player card, the set analysis, CSV.\n• NEW — Set state and critical alerts: a button always visible in the set bar (red = set / match point or a long run, amber = warning). Tap it for the alerts (set point, run and timeouts left, substitutions, serve errors, weak reception, weak rotation, the best player in critical rallies, the change of ends at 8 in the decider) and both teams' last 8 points, timeouts, substitutions, errors, reception, rotation, top attacker. On a phone the most urgent alert is written under the set bar.\n• The set-break sheet at a glance: score, winner, set time, the break clock and u201cStart nowu201d side by side; first serve and the set assessment (teams side by side) on the same view — no scrolling. Two columns on a wide screen.\n• The match-end sheet: the winner, every set's score, both teams' kills / aces / blocks / errors and top scorer, the match assessment and u201cFinish matchu201d on one view.\n• Fixes: the PDF report's block column always showed 0; on a phone the top bar kept u201cRedou201d instead of u201cUndou201d."
     },
-    "android": "https://volleyapp.mygardrop.com/guncelleme/v0.172.1/voleybol.apk",
-    "androidSha256": "58f62f0f2d4b39b0709b9abc8cbdd12d4c923f568d5e6236a7b796e885914265",
-    "androidArm64": "https://volleyapp.mygardrop.com/guncelleme/v0.172.1/voleybol-arm64.apk",
-    "androidArm64Sha256": "135bff0d1e108f7cbb382dd6dfd7a1965725521524a21b79baa59b7807e6c601",
-    "androidArm32": "https://volleyapp.mygardrop.com/guncelleme/v0.172.1/voleybol-arm32.apk",
-    "androidArm32Sha256": "475ac67390da4dc32b889c7ec8de2f9475701b5238d30046407fa850e4ed128d",
-    "windows": "https://volleyapp.mygardrop.com/guncelleme/v0.172.1/voleybol-windows.zip",
-    "windowsSha256": "43276a84bbba485076a15bb44ea763e4a8dde428d70d917d4d1c744517ee7b25"
+    "android": "https://volleyapp.mygardrop.com/guncelleme/v0.173.0/voleybol.apk",
+    "androidSha256": "a34220cf29c30eef3197cc079aa510603f9dad5000cf3758c57eebfe670b6dc0",
+    "androidArm64": "https://volleyapp.mygardrop.com/guncelleme/v0.173.0/voleybol-arm64.apk",
+    "androidArm64Sha256": "2b2b735657660d6ed11508a49e8d64f79f18b2e96c09ee7ce58050375cf0d80b",
+    "androidArm32": "https://volleyapp.mygardrop.com/guncelleme/v0.173.0/voleybol-arm32.apk",
+    "androidArm32Sha256": "2e0114ee2e02c49244b0526debfcefbe4254a651a44a07196e291bf6aa0ed4a1",
+    "windows": "https://volleyapp.mygardrop.com/guncelleme/v0.173.0/voleybol-windows.zip",
+    "windowsSha256": "d060939ce9299909ff69441737881158810225eeaa7c640142da5db272937ee4"
 }
