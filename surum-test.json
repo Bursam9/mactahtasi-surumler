@@ -1,16 +1,16 @@
 {
-    "version": "0.174.0",
+    "version": "0.177.0",
     "date": "2026-10-19",
     "notes": {
-        "tr": "• Sayı işaretleme ekranında servis: o ralliyi kimin servis attığı takım rengiyle büyük yazılır (sayı eklenmeden önceki dizilişten); servis el değiştirdiyse dönen takımın yeni servisçisi de görünür.\n• YENİ — Servis sırası: set durumunda şu an servis atan oyuncu büyük, servis geçerse rakipte kimin atacağı yanında. u201cYanlış oyuncu servis attıu201d ile sayı tek dokunuşla rakibe verilir (servis sırası hatası).\n• YENİ — Mola etkisi: molalardan sonraki 3 sayıda kazanılan oran ve seriyi kesip kesmediği; set durumunda son molanın sonucu.\n• YENİ — Libero etkisi: libero sahadayken ve değilken side-out; iki libero varsa ikisinin side-out ve kendi karşılaması yan yana.\n• YENİ — Uyarı ayarları: set durumundaki her uyarı açılıp kapatılabilir; seri, servis hatası, karşılama, rotasyon ve hata farkı eşikleri ayarlanır.\n• YENİ — Kritik anı sesli söyle: set topu, maç topu ve uzun seri sesli anonsla duyurulur (Uyarı ayarları'ndan açılır).\n• YENİ — Set sonu kartı: set arasında yayın bandında (OBS) ve salon ekranında iki takımın smaç, blok, blok aut, ace ve hata sayıları.\n• Lisans uyarısı yalnız son 10 günde çıkar; lisans rozeti daha önce gün saymaz, u201cLisanslıu201d yazar.",
-        "en": "• The serve on the point screens: who served the rally, big in the team colour (from the lineup before the point); after a side-out the new server too.\n• NEW — Serve order: the set state shows the server big and who serves next for the other team; u201cWrong player servedu201d gives the point to the other team in one tap.\n• NEW — Timeout effect: points won in the 3 rallies after each timeout and whether it broke the run.\n• NEW — Libero effect: side-out with the libero on court and without; two liberos side by side.\n• NEW — Alert settings: every set-state alert can be switched off; thresholds for runs, serve errors, reception, rotation and errors.\n• NEW — Critical moments aloud: set point, match point and long runs are announced.\n• NEW — Set-end card: between sets on the broadcast bar (OBS) and the hall screen: kills, blocks, block-outs, aces and errors.\n• The licence reminder only shows in the last 10 days; before that the badge says u201cLicensedu201d."
+        "tr": "• Ana ekran: açılış adı u201cTakım Yönetim Merkeziu201d (Maç · Antrenman · Kulüp · Analiz). Modüller sol üstte: Antrenman, Kulüp yönetimi, Turnuva, Video; telefonda başlığın altında. Kilitli modülde kilit simgesi var.\n• YENİ — Ücretsiz deneme: video asistanı, klip kesme, video senkronu, çizim tahtası, antrenman, kulüp, turnuva, yıllık, ralli ekranı ve tek ekranda sayı, kilit penceresinden bu cihazda bir kez 3 gün denenebilir.",
+        "en": "• Home screen: the opening is now u201cTeam Management Hubu201d (Match · Practice · Club · Analysis). The modules sit top-left: Practice, Club, Tournament, Video; under the title on a phone. A locked module shows a lock.\n• NEW — Free trial: the video assistant, clip cutter, video sync, drawing board, practice, club, tournament, yearbook, rally screen and one-screen point can each be tried once on this device for 3 days from their lock window."
     },
-    "android": "https://volleyapp.mygardrop.com/guncelleme/v0.174.0/voleybol.apk",
-    "androidSha256": "9045fb756a2539d9d2ce0c6bb05e25ab5d5cc034ecae4331cabc06552e502592",
-    "androidArm64": "https://volleyapp.mygardrop.com/guncelleme/v0.174.0/voleybol-arm64.apk",
-    "androidArm64Sha256": "6e159d542163cafd44c8ccd84cd56fa83cb80f1ac329642e7753f30860a533cf",
-    "androidArm32": "https://volleyapp.mygardrop.com/guncelleme/v0.174.0/voleybol-arm32.apk",
-    "androidArm32Sha256": "01a44f040b21dffb679feda6806d0073180a4c385441019e1070d71718e62db7",
-    "windows": "https://volleyapp.mygardrop.com/guncelleme/v0.174.0/voleybol-windows.zip",
-    "windowsSha256": "d782682bac8a3a11a569eb81d9d0266bdb4ffc2ce7b96293886f083f460a9dd5"
+    "android": "https://volleyapp.mygardrop.com/guncelleme/v0.177.0/voleybol.apk",
+    "androidSha256": "120cabbc284d255ca28740c35cd0d20119993f8791fd65a92c3dec89b6edad6a",
+    "androidArm64": "https://volleyapp.mygardrop.com/guncelleme/v0.177.0/voleybol-arm64.apk",
+    "androidArm64Sha256": "bd7ea41743283c65025acb3d4f5ca9c841ed5d5a63516a124b2a476de22091a9",
+    "androidArm32": "https://volleyapp.mygardrop.com/guncelleme/v0.177.0/voleybol-arm32.apk",
+    "androidArm32Sha256": "b70003a8fefc8e6f6bab3547b98d681603deb89d01479ce85d11d9d6fe1d433b",
+    "windows": "https://volleyapp.mygardrop.com/guncelleme/v0.177.0/voleybol-windows.zip",
+    "windowsSha256": "3cec2e65279c12734d29939997345b648b1d12ee759028c7b22cb41991fef37c"
 }
