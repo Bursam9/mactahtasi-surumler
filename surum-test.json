@@ -1,16 +1,16 @@
 {
-    "version": "0.177.0",
+    "version": "0.179.0",
     "date": "2026-10-19",
     "notes": {
-        "tr": "• Ana ekran: açılış adı u201cTakım Yönetim Merkeziu201d (Maç · Antrenman · Kulüp · Analiz). Modüller sol üstte: Antrenman, Kulüp yönetimi, Turnuva, Video; telefonda başlığın altında. Kilitli modülde kilit simgesi var.\n• YENİ — Ücretsiz deneme: video asistanı, klip kesme, video senkronu, çizim tahtası, antrenman, kulüp, turnuva, yıllık, ralli ekranı ve tek ekranda sayı, kilit penceresinden bu cihazda bir kez 3 gün denenebilir.",
-        "en": "• Home screen: the opening is now u201cTeam Management Hubu201d (Match · Practice · Club · Analysis). The modules sit top-left: Practice, Club, Tournament, Video; under the title on a phone. A locked module shows a lock.\n• NEW — Free trial: the video assistant, clip cutter, video sync, drawing board, practice, club, tournament, yearbook, rally screen and one-screen point can each be tried once on this device for 3 days from their lock window."
+        "tr": "• Sürüm talebi artık bir sipariş: ödeme şeklini seçin (Havale / EFT ya da elden; kartla ödeme yakında). Gönderince sipariş numaranız ve havale bilgileri çıkar; ödeme onaylanınca lisansınız kendiliğinden gelir. u201cTaleplerimu201d ile her talebin durumunu görün.\n• YENİ — Ek modüller: sürümünüzü değiştirmeden yalnız Kulüp + Turnuva modülünü ya da Video modülünü alabilirsiniz.\n• YENİ — Kulüp paketi: 3 / 5 / 10 cihaz için toplu indirim; fiyat kendiliğinden hesaplanır.\n• Süreli indirimler: indirimdeki fiyatın üstü çizili eski hâli ve bitiş tarihi görünür.\n• YENİ — Gelişmemize destek olun: ana ekranın altından destek olabilirsiniz; teşekkür olarak lisansınıza +1 ay ve u201cDestekçiu201d rozeti.\n• Ücretsiz denemeler sunucuda kayıtlı: deneme başlatmak için internet gerekir; uygulama verisi silinse de aynı deneme yeniden başlamaz.",
+        "en": "• An upgrade request is now an order: pick how you pay (bank transfer or in person; card coming soon). You get an order number and the transfer details; once the payment is confirmed the licence arrives by itself. u201cMy requestsu201d shows where each stands.\n• NEW — Add-on modules: get only the Club + Tournament module or the Video module without changing your edition.\n• NEW — Club package: bulk discount for 3 / 5 / 10 devices, priced by itself.\n• Time-limited discounts: the old price struck through and the end date.\n• NEW — Support our work: from the bottom of the home screen; as a thank-you +1 month on your licence and the u201cSupporteru201d badge.\n• Free trials are kept on the server: starting one needs the internet, and deleting the app's data does not restart it."
     },
-    "android": "https://volleyapp.mygardrop.com/guncelleme/v0.177.0/voleybol.apk",
-    "androidSha256": "120cabbc284d255ca28740c35cd0d20119993f8791fd65a92c3dec89b6edad6a",
-    "androidArm64": "https://volleyapp.mygardrop.com/guncelleme/v0.177.0/voleybol-arm64.apk",
-    "androidArm64Sha256": "bd7ea41743283c65025acb3d4f5ca9c841ed5d5a63516a124b2a476de22091a9",
-    "androidArm32": "https://volleyapp.mygardrop.com/guncelleme/v0.177.0/voleybol-arm32.apk",
-    "androidArm32Sha256": "b70003a8fefc8e6f6bab3547b98d681603deb89d01479ce85d11d9d6fe1d433b",
-    "windows": "https://volleyapp.mygardrop.com/guncelleme/v0.177.0/voleybol-windows.zip",
-    "windowsSha256": "3cec2e65279c12734d29939997345b648b1d12ee759028c7b22cb41991fef37c"
+    "android": "https://volleyapp.mygardrop.com/guncelleme/v0.179.0/voleybol.apk",
+    "androidSha256": "e9d9ff132404fe42a6d62f099aba78b83a303e940ecc4dfb67c33d195a48b5e1",
+    "androidArm64": "https://volleyapp.mygardrop.com/guncelleme/v0.179.0/voleybol-arm64.apk",
+    "androidArm64Sha256": "772d614f04a286ec0d9beaee3b911b7e4a6cbb3376db2658e0038f289c0aad46",
+    "androidArm32": "https://volleyapp.mygardrop.com/guncelleme/v0.179.0/voleybol-arm32.apk",
+    "androidArm32Sha256": "ab03a291c0f8bd3f8bbf9b7bb45cdad4b96c3708a4c49dcae2dd97f4dcfec413",
+    "windows": "https://volleyapp.mygardrop.com/guncelleme/v0.179.0/voleybol-windows.zip",
+    "windowsSha256": "f4a71818f7d6a14e81ca895c5b0dd1b0ec0cc3a50548dc3ac350b9aa2a228668"
 }
