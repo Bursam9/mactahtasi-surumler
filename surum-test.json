@@ -1,16 +1,16 @@
 {
-    "version": "0.182.0",
+    "version": "0.183.0",
     "date": "2026-10-26",
     "notes": {
-        "tr": "• YENİ — Projeksiyon ekranı ol: projektöre bağlı bilgisayarda, TV kutusunda ya da tablette Maç Tahtası'nı açıp ana ekranın altındaki (ya da lisans ekranındaki) “Projeksiyon ekranı ol”a basın. Aynı Wi-Fi'daki maç cihazını kendisi bulur; skor, setler, molalar ve oyuncu değişiklikleri kendiliğinden gelir. Bu cihaz için lisans gerekmez, Bluetooth eşleştirmesi ya da ayrı uygulama yok.\n• “Nasıl kullanırım → Sürüm farkları” düzeltildi: Kulüp + Turnuva, Video ve Maç izle sürümlerin içinde değil, ek modül olarak gösteriliyor.\n• Uygulama içindeki fiyatlar ve havale bilgileri güncel fiyat listesiyle aynı.",
-        "en": "• NEW — Be the hall screen: on the projector PC, a TV box or a tablet open Maç Tahtası and press “Be the hall screen” at the bottom of the home screen (or on the licence screen). It finds the scoring device on the same Wi-Fi by itself; score, sets, timeouts and substitutions arrive on their own. No licence on that device, no Bluetooth pairing, no separate app.\n• “How to → Editions” fixed: Club + Tournament, Video and Watch a match show as add-on modules, not as part of the editions.\n• The prices and transfer details inside the app match the current price list."
+        "tr": "• YENİ — Teşekkür ekranı: gönderdiğiniz öneri ya da hata bildirimi yapılıp kapatılınca uygulama açılışta bir teşekkür ekranı gösterir: talebiniz, hangi sürümde yapıldığı, neler yapıldığı ve bu cihazda olup olmadığı. Geri bildirim ekranındaki yanıtlar listesinde de kalır.\n• “İşleme alındı” bildirimleri yanıt listesinde ayrı bir işaretle görünür.\n• “Gelişmemize destek olun” ekranında hazır tutarlar kaldırıldı: destek olmak istediğiniz tutarı siz yazarsınız.",
+        "en": "• NEW — Thank-you screen: when an idea or bug report you sent is done and closed, the app shows a thank-you screen at start: your request, the version it is in, what was done and whether this device has it already. It also stays in the replies list on the feedback screen.\n• “Being worked on” notes are marked in the replies list.\n• “Support our development” no longer offers ready amounts: you type the amount you would like to give."
     },
-    "android": "https://volleyapp.mygardrop.com/guncelleme/v0.182.0/voleybol.apk",
-    "androidSha256": "b52241183386fe2d17c6dfb1fdb3e78dc88eab66eee2f89c3012d945cbe9afe9",
-    "androidArm64": "https://volleyapp.mygardrop.com/guncelleme/v0.182.0/voleybol-arm64.apk",
-    "androidArm64Sha256": "92255c308446b7c5a749e7b95713056329ab878e99168015daf552bdaef37025",
-    "androidArm32": "https://volleyapp.mygardrop.com/guncelleme/v0.182.0/voleybol-arm32.apk",
-    "androidArm32Sha256": "320414ce4943da1eef806175fdfbbb5aeebf59fb936b7dda53c63bd9bbba7e32",
-    "windows": "https://volleyapp.mygardrop.com/guncelleme/v0.182.0/voleybol-windows.zip",
-    "windowsSha256": "ac9a60ad134dd19ad5e1d5d60eae198b71645fd7989903b83d3e4dae761d44dc"
+    "android": "https://volleyapp.mygardrop.com/guncelleme/v0.183.0/voleybol.apk",
+    "androidSha256": "47a0fbd28fad55ed7d65882999e4a85750b54e5de13d54fd79bb8128ebbfa61f",
+    "androidArm64": "https://volleyapp.mygardrop.com/guncelleme/v0.183.0/voleybol-arm64.apk",
+    "androidArm64Sha256": "7021cad266616ce77694463b86fa1a1e0a72b938b62822edbfb8b29c6fb3d461",
+    "androidArm32": "https://volleyapp.mygardrop.com/guncelleme/v0.183.0/voleybol-arm32.apk",
+    "androidArm32Sha256": "d70c24210887526d7af7380f48c31a8b6273e94b0b9dac6102214b266a9efce3",
+    "windows": "https://volleyapp.mygardrop.com/guncelleme/v0.183.0/voleybol-windows.zip",
+    "windowsSha256": "28b0cc3d48b8155a077116f486a594c5de3460070d90753e1177f7ca53ba36c6"
 }
