@@ -1,16 +1,16 @@
 {
-    "version": "0.184.0",
-    "date": "2026-10-26",
+    "version": "0.185.0",
+    "date": "2026-10-27",
     "notes": {
-        "tr": "• Android güncellemesi yaklaşık yarı yarıya küçüldü: yeni sürümler daha hızlı iner (uygulamanın cihazdaki boyutu değişmez).",
-        "en": "• The Android update is about half as big: new versions download faster (the app's size on the device stays the same)."
+        "tr": "• YENİ — Kulüp Ofisi aidat ekranı: takım takım bütün aylar ve oyuncular tek tabloda (yeşil ödendi, turuncu kısmi, kırmızı gecikti, mor muaf). Üstte aidat girişi; hücreye dokununca giriş kendiliğinden dolar.\n• Hücreye basılı tutunca o ayın bütün işlemleri: tamamını ya da kısmen öde (nakit / havale / kart), makbuz, bu ay muaf, indirim ya da özel tutar, burs, kulüpten ayrıldı / bu aydan başladı, veliye WhatsApp ile hatırlatma. Oyuncu adına basılı tutunca bütün borcu öde, veli telefonu, not.\n• Tablo A4 yatay PDF olarak yazdırılır; “?” düğmesi ekranın ve Kulüp Ofisi yol haritasının rehberini açar. Takıma özel aidat, sezon başlangıç ayı, ödeme şekli ve yıllık açık takibi eklendi; eski aidat kayıtlarınız olduğu gibi aktarılır.\n• Kulüp Ofisi voleybol ve basketbolda ortak: aynı ekran iki uygulamada aynı anda gelişecek.",
+        "en": "• NEW — Kulüp Ofisi dues screen: every month and every player of a team in one table (green paid, orange part, red late, purple exempt). The entry sits on top; tapping a cell fills it.\n• Long-press a cell for every action of that month: pay in full or in part (cash / transfer / card), receipt, month off, discount or own amount, scholarship, left the club / joined this month, WhatsApp reminder to the parent. Long-press a name: pay everything, parent's phone, note.\n• The table prints as a landscape A4 PDF; the “?” button opens the guide to the screen and the Kulüp Ofisi roadmap. Own fee per team, season start month, payment method and the season's open amount added; your old dues records are carried over as they are.\n• Kulüp Ofisi is shared by volleyball and basketball: the same screen grows in both apps at once."
     },
-    "android": "https://volleyapp.mygardrop.com/guncelleme/v0.184.0/voleybol.apk",
-    "androidSha256": "97823f98e5859f3d52de0d9eb28b5a7e2ddb01dba67db8815f06b102efcf3ce9",
-    "androidArm64": "https://volleyapp.mygardrop.com/guncelleme/v0.184.0/voleybol-arm64.apk",
-    "androidArm64Sha256": "835cb5d706bbcbf3a17102858d5dca272b91aef063b0f6fabc14b51e2b0a812c",
-    "androidArm32": "https://volleyapp.mygardrop.com/guncelleme/v0.184.0/voleybol-arm32.apk",
-    "androidArm32Sha256": "9ab87fd14527b726da7cbc2af543ed7f4042f2b7117b40e4a604071d98001d75",
-    "windows": "https://volleyapp.mygardrop.com/guncelleme/v0.184.0/voleybol-windows.zip",
-    "windowsSha256": "757ab87e40dbf21740bbbe09d265b0aae1d314665be859f43dffd2a7869a96a2"
+    "android": "https://volleyapp.mygardrop.com/guncelleme/v0.185.0/voleybol.apk",
+    "androidSha256": "79676433c15d2f2682f55ae17f7b67ffe47f0ec5b9bea684d8fb46127ce60334",
+    "androidArm64": "https://volleyapp.mygardrop.com/guncelleme/v0.185.0/voleybol-arm64.apk",
+    "androidArm64Sha256": "49062faa53f234a627ecdc4970f00557abcbadb4af69b1e490eeade17f9c54f5",
+    "androidArm32": "https://volleyapp.mygardrop.com/guncelleme/v0.185.0/voleybol-arm32.apk",
+    "androidArm32Sha256": "a092001fa3bb5f6ccb519f5d88bd2bf287086323d3312a2cade17e0cd16cb0ea",
+    "windows": "https://volleyapp.mygardrop.com/guncelleme/v0.185.0/voleybol-windows.zip",
+    "windowsSha256": "b8e0de15095bde2a8b9068cc4f67b04fa0294ea3df1f51faa9b3b3436f1066e4"
 }
