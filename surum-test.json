@@ -1,16 +1,16 @@
 {
-    "version": "0.185.0",
+    "version": "0.188.0",
     "date": "2026-10-27",
     "notes": {
-        "tr": "• YENİ — Kulüp Ofisi aidat ekranı: takım takım bütün aylar ve oyuncular tek tabloda (yeşil ödendi, turuncu kısmi, kırmızı gecikti, mor muaf). Üstte aidat girişi; hücreye dokununca giriş kendiliğinden dolar.\n• Hücreye basılı tutunca o ayın bütün işlemleri: tamamını ya da kısmen öde (nakit / havale / kart), makbuz, bu ay muaf, indirim ya da özel tutar, burs, kulüpten ayrıldı / bu aydan başladı, veliye WhatsApp ile hatırlatma. Oyuncu adına basılı tutunca bütün borcu öde, veli telefonu, not.\n• Tablo A4 yatay PDF olarak yazdırılır; “?” düğmesi ekranın ve Kulüp Ofisi yol haritasının rehberini açar. Takıma özel aidat, sezon başlangıç ayı, ödeme şekli ve yıllık açık takibi eklendi; eski aidat kayıtlarınız olduğu gibi aktarılır.\n• Kulüp Ofisi voleybol ve basketbolda ortak: aynı ekran iki uygulamada aynı anda gelişecek.",
-        "en": "• NEW — Kulüp Ofisi dues screen: every month and every player of a team in one table (green paid, orange part, red late, purple exempt). The entry sits on top; tapping a cell fills it.\n• Long-press a cell for every action of that month: pay in full or in part (cash / transfer / card), receipt, month off, discount or own amount, scholarship, left the club / joined this month, WhatsApp reminder to the parent. Long-press a name: pay everything, parent's phone, note.\n• The table prints as a landscape A4 PDF; the “?” button opens the guide to the screen and the Kulüp Ofisi roadmap. Own fee per team, season start month, payment method and the season's open amount added; your old dues records are carried over as they are.\n• Kulüp Ofisi is shared by volleyball and basketball: the same screen grows in both apps at once."
+        "tr": "• YENİ — Kulüp → Yoklama: her takımın ayın antrenman ve maç günleri yan yana, oyuncular alt alta (yeşil geldi, turuncu geç, kırmızı gelmedi, mavi izinli) ve oyuncu başına devam yüzdesi.\n• “Hızlı yoklama”: günü ve takımı seçin, herkes “geldi” başlar, gelmeyene dokunun. Antrenman modunda alınan yoklamalar ve maç kadroları tabloya kendiliğinden gelir.\n• Hücreye dokununca işaret değişir; basılı tutunca izin nedeni (hasta, sakat, okul, aile) ve not. Oyuncunun adına dokununca ayın ve sezonun devamı ve veliye WhatsApp mesajı. Özet üst üste 3 kez gelmeyenleri ve devamı düşük olanları gösterir.\n• Yazdır: ayın yoklama çizelgesi ya da salona asmak için boş imza listesi. Yoklama da voleybol ve basketbolda aynı ekran.",
+        "en": "• NEW — Club → Attendance: each team's practice and match days of the month side by side, the players below (green came, orange late, red absent, blue excused) and an attendance percentage per player.\n• “Quick roll call”: pick the day and the team, everyone starts as “came”, tap who did not. Roll calls taken in the practice mode and the match squads come into the table by themselves.\n• Tap a cell to change the mark; long-press for the reason (ill, injured, school, family) and a note. Tap a name for the month's and the season's attendance and a WhatsApp message to the parent. The summary shows who missed 3 in a row and who comes too little.\n• Print: the month's attendance sheet or a blank sign-in sheet for the gym. Attendance is the same screen in volleyball and basketball too."
     },
-    "android": "https://volleyapp.mygardrop.com/guncelleme/v0.185.0/voleybol.apk",
-    "androidSha256": "79676433c15d2f2682f55ae17f7b67ffe47f0ec5b9bea684d8fb46127ce60334",
-    "androidArm64": "https://volleyapp.mygardrop.com/guncelleme/v0.185.0/voleybol-arm64.apk",
-    "androidArm64Sha256": "49062faa53f234a627ecdc4970f00557abcbadb4af69b1e490eeade17f9c54f5",
-    "androidArm32": "https://volleyapp.mygardrop.com/guncelleme/v0.185.0/voleybol-arm32.apk",
-    "androidArm32Sha256": "a092001fa3bb5f6ccb519f5d88bd2bf287086323d3312a2cade17e0cd16cb0ea",
-    "windows": "https://volleyapp.mygardrop.com/guncelleme/v0.185.0/voleybol-windows.zip",
-    "windowsSha256": "b8e0de15095bde2a8b9068cc4f67b04fa0294ea3df1f51faa9b3b3436f1066e4"
+    "android": "https://volleyapp.mygardrop.com/guncelleme/v0.188.0/voleybol.apk",
+    "androidSha256": "98c85dd68c76db4d70609bb816d2e0a032f3010491f4df36a0124bafb09c4f52",
+    "androidArm64": "https://volleyapp.mygardrop.com/guncelleme/v0.188.0/voleybol-arm64.apk",
+    "androidArm64Sha256": "bc5bf512c807feaa251e9470b31fb97e072c9e6aa76458709d49f8319dce42c8",
+    "androidArm32": "https://volleyapp.mygardrop.com/guncelleme/v0.188.0/voleybol-arm32.apk",
+    "androidArm32Sha256": "68e07a57f6600a7722ce04a1d2c191d6004c400272be8d80f983a5d1930f8927",
+    "windows": "https://volleyapp.mygardrop.com/guncelleme/v0.188.0/voleybol-windows.zip",
+    "windowsSha256": "03616c2409fc6ee645467748aea44224ccc06f54922e38f2e8268b345357b4bf"
 }
