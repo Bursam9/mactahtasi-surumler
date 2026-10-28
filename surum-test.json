@@ -1,16 +1,16 @@
 {
-    "version": "0.189.0",
-    "date": "2026-10-27",
+    "version": "0.192.0",
+    "date": "2026-10-28",
     "notes": {
-        "tr": "• YENİ — Kulüp → Oyuncular artık üye kartı: her oyuncunun doğum yılı, lisans no, kendi telefonu, iki veli, okul, notlar (alerji, ilaç …) ve lisans vizesi / sağlık raporu / veli-okul izninin bitiş tarihleri tek kartta. Oyuncuya dokunun.\n• Üstteki özet bitmiş ve 30 gün içinde bitecek belgeleri sayar; satırdaki 💬 veliye hazır hatırlatmayı WhatsApp ile açar. Ad, lisans no, okul ya da veli adıyla arama; takım süzgeci; “Takım listesi” belge tarihleriyle renkli PDF.\n• YENİ — Kulüp → Ekip: antrenörler, sorumlu oldukları takımlar ve belgeleri (antrenörlük belgesi, ilk yardım, vize) — süresi dolanlar ve antrenörü olmayan takımlar üstte.\n• YENİ — Kulüp → Adaylar: kulübe gelmek isteyen oyuncular, deneme antrenmanları ve antrenörün notu, kabul / ret; kabul edilen tek dokunuşla takıma kaydedilir. Seçme gününde takıma alınanlar da aday olarak gelir.\n• Üye kartı, Ekip ve Adaylar voleybol ve basketbolda aynı ekran; antrenör notları ve sporcu profili kartın altında kalır.",
-        "en": "• NEW — Club → Players is now a member card: each player's year of birth, licence no, own phone, two parents, school, notes (allergy, medicine …) and the end dates of the licence visa, the health report and the parent / school permit on one card. Tap a player.\n• The summary on top counts the ended documents and the ones ending within 30 days; 💬 on a line opens a ready reminder to the parent in WhatsApp. Search by name, licence no, school or a parent's name; a team filter; “Team list” prints a coloured PDF with the document dates.\n• NEW — Club → Staff: the coaches, the teams in their charge and their certificates (coaching licence, first aid, visa) — expired ones and teams without a coach on top.\n• NEW — Club → Prospects: players who want to join, their trial practices with the coach's mark, accept / decline; an accepted one is registered into the team with one tap. Players a tryout day put into a team come in as prospects too.\n• The member card, Staff and Prospects are the same screens in volleyball and basketball; the coaches' notes and the sports profile stay under the card."
+        "tr": "• Ayarlar → Genel'de bulut yedeği, yedek klasörü ve Kişisel veriler (KVKK) artık voleybol ve basketbolda aynı yerde ve aynı ekranlarla. Kayıtlı yedek anahtarınız aynen kullanılmaya devam eder.\n• Kulüp web sayfası Kulüp → ⋮ menüsüne taşındı (iki uygulamada aynı): yayınla / güncelle, üst yazı, bağlantı, yayından kaldır. Sayfa her gün kendiliğinden güncellenir.\n• Sunucudaki takım bulutu voleybol ve basketbol kayıtlarını ayrı tutar; voleybolun mevcut bağlantıları (oyuncu sayfası, kayıt formu, site, turnuva) aynen çalışır.\n• Ayarlarda “Görünüm” sekmesinin adı dar telefonlarda tam sığar.",
+        "en": "• In Settings → General the cloud backup, the backup folder and Personal data (KVKK) are now in the same place with the same screens in volleyball and basketball. Your saved backup key keeps working.\n• The club web page moved to Club → ⋮ (the same in both apps): publish / update, header text, link, take down. The page still updates itself every day.\n• The team cloud on the server keeps volleyball and basketball records apart; the existing volleyball links (player page, sign-up form, site, tournament) keep working.\n• The “View” tab name in Settings fits on narrow phones."
     },
-    "android": "https://volleyapp.mygardrop.com/guncelleme/v0.189.0/voleybol.apk",
-    "androidSha256": "25802fd1d0cfe88b07df2c1ef1225ef1009da94d129c53117794b2505683fa11",
-    "androidArm64": "https://volleyapp.mygardrop.com/guncelleme/v0.189.0/voleybol-arm64.apk",
-    "androidArm64Sha256": "201c4bcf7beda1be1727698ab2000dd3abac773bc9d0edbd4af192088daea5fa",
-    "androidArm32": "https://volleyapp.mygardrop.com/guncelleme/v0.189.0/voleybol-arm32.apk",
-    "androidArm32Sha256": "1cc966a56a92af81fc1b1c690c2c63e5d84b0e5fe98e958e00d30fdaaa90547e",
-    "windows": "https://volleyapp.mygardrop.com/guncelleme/v0.189.0/voleybol-windows.zip",
-    "windowsSha256": "b52490b0539e0390cbb6d27f12b5ae58077a66080d1794b471d523aa1df49606"
+    "android": "https://volleyapp.mygardrop.com/guncelleme/v0.192.0/voleybol.apk",
+    "androidSha256": "8ea4459e29b35230c6473f48fab5da89048e0f0aed48131ca209b3feb80f5d7b",
+    "androidArm64": "https://volleyapp.mygardrop.com/guncelleme/v0.192.0/voleybol-arm64.apk",
+    "androidArm64Sha256": "3d02fd8ee6e400baba4b2d284fab3a85fb731c9ad62061cdd3d1ba7b3b69a4d3",
+    "androidArm32": "https://volleyapp.mygardrop.com/guncelleme/v0.192.0/voleybol-arm32.apk",
+    "androidArm32Sha256": "92d3567b239812dab55bc9aef6f903bfa23938d258e85544358b7828bf8204e0",
+    "windows": "https://volleyapp.mygardrop.com/guncelleme/v0.192.0/voleybol-windows.zip",
+    "windowsSha256": "38b853e8bd9d65fe47677eeed8c57a8c3b54973b6cb6c45e6053db438d24f669"
 }
