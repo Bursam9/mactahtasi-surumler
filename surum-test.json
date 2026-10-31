@@ -1,16 +1,16 @@
 {
-    "version": "0.193.0",
+    "version": "0.194.0",
     "date": "2026-10-31",
     "notes": {
-        "tr": "• YENİ — Kulüp → Pano: kulüp ekranı artık panoyla açılır. Bu ayın aidatı (toplanan / beklenen, gecikenler), açık ücretler, bugünkü antrenman ve maçlar, önümüzdeki 7 gün, salon çakışması ve yapılacaklar (biten belgeler, antrenörsüz takım, dışarıdaki malzeme) tek ekranda; karta dokununca ilgili sekme açılır.\n• YENİ — Diğer ücretler: forma, kamp, turnuva gibi aylık aidat dışındaki ücretler. Aidat ekranında “Yeni ücret”; ücretin sayfasında ada dokunmak = ödedi, basılı tutunca kısmi ödeme, WhatsApp hatırlatma, geri al.\n• YENİ — Kardeş indirimi: Aidat ayarlarında 2. ve 3.+ kardeşin yüzdesi; oyuncunun adına basılı tutup “Kardeşleri…”. Aynı veli telefonu olan oyuncular kardeş olarak önerilir.\n• YENİ — Kulübü kur (Kulüp → ⋮): kulübün adı, takımları, aylık aidat ve kardeş indirimi dört adımda.\n• Kulüp → Takımlarım listesinde yalnız kendi kulüp takımlarınız görünür; maç yaptığınız rakipler listeyi doldurmaz, gerekirse adıyla aranır. Maç kurulumunda takımı kaydederken “Kulübümün takımı” kutusu var.",
-        "en": "• NEW — Club → Overview: the club screen now opens on an overview. This month's dues (collected / expected, who is late), open charges, today's practices and matches, the next 7 days, gym clashes and a to-do list (ended documents, teams without a coach, equipment given out) on one screen; tap a card to open its tab.\n• NEW — Other charges: kit, camp, tournament and other charges outside the monthly dues. “New charge” on the dues screen; on the charge's page tap a name = paid, long-press for a part payment, a WhatsApp reminder, undo.\n• NEW — Sibling discount: the percent for the 2nd and 3rd+ child in the dues settings; long-press a player's name → “Siblings…”. Players with the same parent phone are suggested as siblings.\n• NEW — Set up the club (Club → ⋮): the club's name, its teams, the monthly fee and the sibling discount in four steps.\n• Club → My teams lists only your own club teams; the opponents you played no longer fill the list and can be found by name. Saving a team at match setup has a “My club's team” box."
+        "tr": "• YENİ — Kulüp → Kasa: kasada ne kadar para var, seçilen ayın ya da sezonun geliri, gideri ve farkı. Aidat ve diğer ücret ödemeleri kasaya kendiliğinden gelir; sponsor, bağış, salon kirası, antrenör, malzeme, ulaşım, hakem ve lisans gibi kalemler “Gelir ekle” / “Gider ekle” ile yazılır. Ayarlardan devreden kasa girilir.\n• YENİ — Kasa → Raporlar: sezon başı ve sonu kasa, gelir ve gider kalemleri, ay ay tablo, takım takım aidat (beklenen / toplanan / açık) ve borçlular listesi; yazdırılır (PDF) ya da özet olarak paylaşılır.\n• Pano'da kasa kartı: kasadaki para ve bu ayın geliri / gideri.\n• Düzeltme: Ayarlar → Güncelleme'de sürüm yerine “vOrtak.host.appVersion” yazıyordu; artık sürüm numarası görünür.",
+        "en": "• NEW — Club → Cash book: the cash on hand, the income, expenses and net of the chosen month or season. Dues and other charge payments come in by themselves; sponsors, donations, gym rent, coaches, equipment, travel, referees and licences are written with “Add income” / “Add expense”. The settings take the opening balance.\n• NEW — Cash book → Reports: the cash at the season start and end, income and expenses by category, month by month, the dues team by team (expected / collected / open) and who owes; print it (PDF) or share a summary.\n• Overview: a cash card with the cash on hand and this month's income / expenses.\n• Fix: Settings → Updates showed “vOrtak.host.appVersion” instead of the version number."
     },
-    "android": "https://volleyapp.mygardrop.com/guncelleme/v0.193.0/voleybol.apk",
-    "androidSha256": "f585a8bc2531cfd00f451968b62ddde21e1d2868bb9d7f9f02b2342572f995dc",
-    "androidArm64": "https://volleyapp.mygardrop.com/guncelleme/v0.193.0/voleybol-arm64.apk",
-    "androidArm64Sha256": "a584204c53ca1df576b6947a5e9387d887a2b7064355d6416e795d82ae372e3f",
-    "androidArm32": "https://volleyapp.mygardrop.com/guncelleme/v0.193.0/voleybol-arm32.apk",
-    "androidArm32Sha256": "8d5fdf5a2bda6a0f8e2f79cb119fbb6183e530fd37ba441ed40a53fc44c4ae80",
-    "windows": "https://volleyapp.mygardrop.com/guncelleme/v0.193.0/voleybol-windows.zip",
-    "windowsSha256": "2b0bd62f7320d257db9ccd8d69e827f01c5bb51c07fe41a0b8b0a2708af85f54"
+    "android": "https://volleyapp.mygardrop.com/guncelleme/v0.194.0/voleybol.apk",
+    "androidSha256": "ef40f982438bb7605ef59e4acdda9514c5874cb13190131e1fc875ae22f8a6e6",
+    "androidArm64": "https://volleyapp.mygardrop.com/guncelleme/v0.194.0/voleybol-arm64.apk",
+    "androidArm64Sha256": "7bb24b6f38ca4ff698e1473e8dffed8728e9649256ced0399bdb92f95cc564f2",
+    "androidArm32": "https://volleyapp.mygardrop.com/guncelleme/v0.194.0/voleybol-arm32.apk",
+    "androidArm32Sha256": "b7b3309a7e8f2b67c3d139a550206e19c383b4c65c69cb8bd181d99001dfc4a8",
+    "windows": "https://volleyapp.mygardrop.com/guncelleme/v0.194.0/voleybol-windows.zip",
+    "windowsSha256": "81589ffe196d849a4f4d2f476a21dcd889b2794e9254b9072ff1111ce7d0f32f"
 }
