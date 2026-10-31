@@ -1,16 +1,16 @@
 {
-    "version": "0.194.0",
+    "version": "0.195.0",
     "date": "2026-10-31",
     "notes": {
-        "tr": "• YENİ — Kulüp → Kasa: kasada ne kadar para var, seçilen ayın ya da sezonun geliri, gideri ve farkı. Aidat ve diğer ücret ödemeleri kasaya kendiliğinden gelir; sponsor, bağış, salon kirası, antrenör, malzeme, ulaşım, hakem ve lisans gibi kalemler “Gelir ekle” / “Gider ekle” ile yazılır. Ayarlardan devreden kasa girilir.\n• YENİ — Kasa → Raporlar: sezon başı ve sonu kasa, gelir ve gider kalemleri, ay ay tablo, takım takım aidat (beklenen / toplanan / açık) ve borçlular listesi; yazdırılır (PDF) ya da özet olarak paylaşılır.\n• Pano'da kasa kartı: kasadaki para ve bu ayın geliri / gideri.\n• Düzeltme: Ayarlar → Güncelleme'de sürüm yerine “vOrtak.host.appVersion” yazıyordu; artık sürüm numarası görünür.",
-        "en": "• NEW — Club → Cash book: the cash on hand, the income, expenses and net of the chosen month or season. Dues and other charge payments come in by themselves; sponsors, donations, gym rent, coaches, equipment, travel, referees and licences are written with “Add income” / “Add expense”. The settings take the opening balance.\n• NEW — Cash book → Reports: the cash at the season start and end, income and expenses by category, month by month, the dues team by team (expected / collected / open) and who owes; print it (PDF) or share a summary.\n• Overview: a cash card with the cash on hand and this month's income / expenses.\n• Fix: Settings → Updates showed “vOrtak.host.appVersion” instead of the version number."
+        "tr": "• YENİ — Turnuva: lig (herkes herkesle, istenirse rövanşlı), eleme (her sayıda takım; eksik yerler üst sıradakilere bay geçer) ya da gruplar + eleme. Saha ve saatler kendiliğinden dağılır; eleme ağacı turları ve üçüncülük maçıyla görünür.\n• YENİ — Turnuva günü: bugünün maç sırası (öne al, sona al, bugün oynanmasın), maçı buradan başlat; biten maçın sonucu turnuvaya kendiliğinden yazılır ve sonraki maça geri sayım başlar (tam ekran da).\n• Maça dokununca: sonucu yaz, hükmen yenik say (3-0, 25-0) ya da maçı başlat — kurulum iki takım ve turnuvayla hazır açılır.\n• Turnuva ekranı basketbolla ortak oldu; eski turnuvalar, görevliler ve canlı sayfalar olduğu gibi taşındı. Modül ve sürüm yazıları yenilendi.",
+        "en": "• NEW — Tournament: a league (everyone plays everyone, home and away if wanted), a knockout (any number of teams; missing places are byes for the top seeds) or groups + knockout. Courts and times are spread for you; the bracket shows its rounds and the 3rd-place game.\n• NEW — Tournament day: today's order (earlier, later, not today), start each match from here; a finished match's result goes into the tournament by itself and the countdown to the next game starts (full screen too).\n• Tap a game: type the result, a forfeit (3-0, 25-0) or start the match — the setup opens with both teams and the tournament.\n• The tournament screen is now shared with basketball; old tournaments, officials and live pages came over as they were. Module and edition texts updated."
     },
-    "android": "https://volleyapp.mygardrop.com/guncelleme/v0.194.0/voleybol.apk",
-    "androidSha256": "ef40f982438bb7605ef59e4acdda9514c5874cb13190131e1fc875ae22f8a6e6",
-    "androidArm64": "https://volleyapp.mygardrop.com/guncelleme/v0.194.0/voleybol-arm64.apk",
-    "androidArm64Sha256": "7bb24b6f38ca4ff698e1473e8dffed8728e9649256ced0399bdb92f95cc564f2",
-    "androidArm32": "https://volleyapp.mygardrop.com/guncelleme/v0.194.0/voleybol-arm32.apk",
-    "androidArm32Sha256": "b7b3309a7e8f2b67c3d139a550206e19c383b4c65c69cb8bd181d99001dfc4a8",
-    "windows": "https://volleyapp.mygardrop.com/guncelleme/v0.194.0/voleybol-windows.zip",
-    "windowsSha256": "81589ffe196d849a4f4d2f476a21dcd889b2794e9254b9072ff1111ce7d0f32f"
+    "android": "https://volleyapp.mygardrop.com/guncelleme/v0.195.0/voleybol.apk",
+    "androidSha256": "fe2d94c76bcf43b2ac5aa2cec69fbce549c9e9775797165bd8792dfdc7d0a2fc",
+    "androidArm64": "https://volleyapp.mygardrop.com/guncelleme/v0.195.0/voleybol-arm64.apk",
+    "androidArm64Sha256": "fa222136c2e9bcac0ccf20197ddc413921d0c373e3694ee7012f5b6a22f535dc",
+    "androidArm32": "https://volleyapp.mygardrop.com/guncelleme/v0.195.0/voleybol-arm32.apk",
+    "androidArm32Sha256": "3dc264b2dc2629d5ef07228d57300896877e4590c28b10e7aa28c21783aaea22",
+    "windows": "https://volleyapp.mygardrop.com/guncelleme/v0.195.0/voleybol-windows.zip",
+    "windowsSha256": "9e4c56fcd2a6fe83ce44d4dbec648a00526bf6f2746d5b582af0a2a02361cadf"
 }
