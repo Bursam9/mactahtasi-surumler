@@ -1,16 +1,16 @@
 {
-    "version": "0.195.0",
-    "date": "2026-10-31",
+    "version": "0.196.0",
+    "date": "2026-11-01",
     "notes": {
-        "tr": "• YENİ — Turnuva: lig (herkes herkesle, istenirse rövanşlı), eleme (her sayıda takım; eksik yerler üst sıradakilere bay geçer) ya da gruplar + eleme. Saha ve saatler kendiliğinden dağılır; eleme ağacı turları ve üçüncülük maçıyla görünür.\n• YENİ — Turnuva günü: bugünün maç sırası (öne al, sona al, bugün oynanmasın), maçı buradan başlat; biten maçın sonucu turnuvaya kendiliğinden yazılır ve sonraki maça geri sayım başlar (tam ekran da).\n• Maça dokununca: sonucu yaz, hükmen yenik say (3-0, 25-0) ya da maçı başlat — kurulum iki takım ve turnuvayla hazır açılır.\n• Turnuva ekranı basketbolla ortak oldu; eski turnuvalar, görevliler ve canlı sayfalar olduğu gibi taşındı. Modül ve sürüm yazıları yenilendi.",
-        "en": "• NEW — Tournament: a league (everyone plays everyone, home and away if wanted), a knockout (any number of teams; missing places are byes for the top seeds) or groups + knockout. Courts and times are spread for you; the bracket shows its rounds and the 3rd-place game.\n• NEW — Tournament day: today's order (earlier, later, not today), start each match from here; a finished match's result goes into the tournament by itself and the countdown to the next game starts (full screen too).\n• Tap a game: type the result, a forfeit (3-0, 25-0) or start the match — the setup opens with both teams and the tournament.\n• The tournament screen is now shared with basketball; old tournaments, officials and live pages came over as they were. Module and edition texts updated."
+        "tr": "• YENİ — Kulüp → Takımlar → “Maçlardan ekle”: oynattığınız maçlardaki takımlar listelenir; işaretlediğiniz takım kulübün takımı olur, kayıtlı değilse son maçındaki kadrosuyla (numara, ad, görevler) ve forma rengiyle kaydedilir.\n• YENİ — Takım kartında oyuncuya basılı tutun: oyuncu kartı (doğum yılı, lisans, iki veli, okul, belgeler, notlar) açılır ve düzenlenir.",
+        "en": "• NEW — Club → Teams → “Add from matches”: the teams of your matches are listed; a ticked team becomes the club's, saved with its roster of its last match (numbers, names, roles) and its kit colour when it is not saved yet.\n• NEW — Long-press a player on a team card: the member card (birth year, licence, two parents, school, documents, notes) opens to edit."
     },
-    "android": "https://volleyapp.mygardrop.com/guncelleme/v0.195.0/voleybol.apk",
-    "androidSha256": "fe2d94c76bcf43b2ac5aa2cec69fbce549c9e9775797165bd8792dfdc7d0a2fc",
-    "androidArm64": "https://volleyapp.mygardrop.com/guncelleme/v0.195.0/voleybol-arm64.apk",
-    "androidArm64Sha256": "fa222136c2e9bcac0ccf20197ddc413921d0c373e3694ee7012f5b6a22f535dc",
-    "androidArm32": "https://volleyapp.mygardrop.com/guncelleme/v0.195.0/voleybol-arm32.apk",
-    "androidArm32Sha256": "3dc264b2dc2629d5ef07228d57300896877e4590c28b10e7aa28c21783aaea22",
-    "windows": "https://volleyapp.mygardrop.com/guncelleme/v0.195.0/voleybol-windows.zip",
-    "windowsSha256": "9e4c56fcd2a6fe83ce44d4dbec648a00526bf6f2746d5b582af0a2a02361cadf"
+    "android": "https://volleyapp.mygardrop.com/guncelleme/v0.196.0/voleybol.apk",
+    "androidSha256": "d000ea493ff27fbf6c5df02d0799f4d988a37c091518019bb30193cdc617694e",
+    "androidArm64": "https://volleyapp.mygardrop.com/guncelleme/v0.196.0/voleybol-arm64.apk",
+    "androidArm64Sha256": "d81e1304ada86d9169f6de4358658bd6d0619a0a061b95ee5f4795ebbbae2bb2",
+    "androidArm32": "https://volleyapp.mygardrop.com/guncelleme/v0.196.0/voleybol-arm32.apk",
+    "androidArm32Sha256": "d77892860088a257be19673ea107a2633f281425309d32d5069138c9a225f698",
+    "windows": "https://volleyapp.mygardrop.com/guncelleme/v0.196.0/voleybol-windows.zip",
+    "windowsSha256": "f12e7336984c377e051cd0847fb80e6b7331205876c001859f03195cb2b1d8c8"
 }
