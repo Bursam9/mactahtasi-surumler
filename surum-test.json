@@ -1,16 +1,16 @@
 {
-    "version": "0.199.0",
+    "version": "0.200.0",
     "date": "2026-11-02",
     "notes": {
-        "tr": "• YENİ — Kulüp → ⋮ → Veli sayfası: her çocuğun velisine özel bir bağlantı. Veli yalnız kendi çocuğunun aidatını ve açık ücretlerini (isterseniz gizlenir), takımın önümüzdeki 30 günlük programını, ailesine düşen görevleri ve izin formlarını görür. Bağlantı veliye WhatsApp'tan tek dokunuşla gider; sayfalar her gün kendiliğinden güncellenir.\n• YENİ — İzin formları: deplasman, kamp, fotoğraf / video izni ya da kendi metniniz; bir takıma ya da bütün takımlara. Veli sayfasından “İzin veriyorum / Vermiyorum” der; evet / hayır / bekleyen sayıları kulübe gelir.\n• YENİ — Veli görev çizelgesi: masa, forma, kantin, ulaşım, fotoğraf görevleri takımın ailelerine sırayla (en az görevi olandan) dağıtılır, aynı gün bir aileye iki görev verilmez; çizelge paylaşılır.",
-        "en": "• NEW — Club → ⋮ → Parents' page: a private link for each child's parents. They see only their child's dues and open charges (can be hidden), the team's next 30 days, the family's duties and the permission forms. The link goes to the parent on WhatsApp in one tap; the pages refresh every day.\n• NEW — Permission forms: away trip, camp, photo / video or your own text; for one team or all. Parents answer “I allow / I don't” on their page; the yes / no / waiting counts come to the club.\n• NEW — Parents' duty rota: score table, kit, canteen, driving, photo duties go round the team's families (the one with the fewest first), never two on the same day for a family; the rota can be shared."
+        "tr": "• YENİ — Veli sayfasında “Gelemeyecek”: veli önümüzdeki 14 günden bir antrenmanı ya da maçı seçip nedenini bildirir; Kulüp → Yoklama'da o gün “izinli” görünür (antrenörün kendi işareti geçerli kalır). Geri alınabilir.\n• YENİ — Veli sayfasında son antrenmanın zorluğu (1–10): Veli sayfası ekranında gün gün ortalama görünür.\n• Almanca ve Azerbaycanca eksik metinler tamamlandı (kulüp, turnuva ve ortak ekranlar); Geri bildirim'de “Çeviri hatası” ile yanlış bir çeviri hazır şablonla bildirilir.",
+        "en": "• NEW — “Can't come” on the parents' page: a parent picks a practice or match of the next 14 days and the reason; Club → Attendance shows “excused” that day (the coach's own mark wins). Can be taken back.\n• NEW — The last practice's difficulty (1–10) on the parents' page: the parents' page screen shows the average day by day.\n• Missing German and Azerbaijani texts completed (club, tournament and shared screens); Feedback → “Translation error” reports a wrong translation with a ready template."
     },
-    "android": "https://volleyapp.mygardrop.com/guncelleme/v0.199.0/voleybol.apk",
-    "androidSha256": "c6aacddf4eeb6c77c1092cbff4e1fb39661b0a976e6a1b459c0559b14d3b3208",
-    "androidArm64": "https://volleyapp.mygardrop.com/guncelleme/v0.199.0/voleybol-arm64.apk",
-    "androidArm64Sha256": "910de94a0f7c87af0deb801cb4628f3a6a7fd9a0ec92c566b258ce553da99a04",
-    "androidArm32": "https://volleyapp.mygardrop.com/guncelleme/v0.199.0/voleybol-arm32.apk",
-    "androidArm32Sha256": "7516e4b01276586feb9bbeb9a22700f98b8c505926759034a98f5acf619f2ee4",
-    "windows": "https://volleyapp.mygardrop.com/guncelleme/v0.199.0/voleybol-windows.zip",
-    "windowsSha256": "7e774a60fd6953a32307f345b9693c1ddf6055c980c144e2a0bcd96ddd2ab956"
+    "android": "https://volleyapp.mygardrop.com/guncelleme/v0.200.0/voleybol.apk",
+    "androidSha256": "84b5326401caf061ef1f2b44a6c1c42b1b68fb3de7b1962575ea0454fe159d99",
+    "androidArm64": "https://volleyapp.mygardrop.com/guncelleme/v0.200.0/voleybol-arm64.apk",
+    "androidArm64Sha256": "11f7b3cee4bc9a8ecf50aef5ce12d2626110b8b14853730e451f730d80a52b62",
+    "androidArm32": "https://volleyapp.mygardrop.com/guncelleme/v0.200.0/voleybol-arm32.apk",
+    "androidArm32Sha256": "50f81c5d95d46574d79dc5fbdb04909801b7d8f20ee4294a3cc4921f1d278310",
+    "windows": "https://volleyapp.mygardrop.com/guncelleme/v0.200.0/voleybol-windows.zip",
+    "windowsSha256": "f366f60e65665a1d3258696d3d1ca870d874c34acd280de695f25e18ef2c58cf"
 }
