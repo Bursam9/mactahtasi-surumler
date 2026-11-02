@@ -1,16 +1,16 @@
 {
-    "version": "0.200.0",
+    "version": "0.201.0",
     "date": "2026-11-02",
     "notes": {
-        "tr": "• YENİ — Veli sayfasında “Gelemeyecek”: veli önümüzdeki 14 günden bir antrenmanı ya da maçı seçip nedenini bildirir; Kulüp → Yoklama'da o gün “izinli” görünür (antrenörün kendi işareti geçerli kalır). Geri alınabilir.\n• YENİ — Veli sayfasında son antrenmanın zorluğu (1–10): Veli sayfası ekranında gün gün ortalama görünür.\n• Almanca ve Azerbaycanca eksik metinler tamamlandı (kulüp, turnuva ve ortak ekranlar); Geri bildirim'de “Çeviri hatası” ile yanlış bir çeviri hazır şablonla bildirilir.",
-        "en": "• NEW — “Can't come” on the parents' page: a parent picks a practice or match of the next 14 days and the reason; Club → Attendance shows “excused” that day (the coach's own mark wins). Can be taken back.\n• NEW — The last practice's difficulty (1–10) on the parents' page: the parents' page screen shows the average day by day.\n• Missing German and Azerbaijani texts completed (club, tournament and shared screens); Feedback → “Translation error” reports a wrong translation with a ready template."
+        "tr": "• YENİ (Elit) — Kulüp bulutu: kulübün verisi (aidat, kasa, yoklama, üyeler, ekip, takvim, malzeme, sponsorlar, görevliler, veli sayfası), takımlar ve kadroları ile kulüp takımlarının maçları ve istatistikleri kulübün bütün cihazlarında aynı olur. Bir cihaz Kulüp → ⋮ → Kulüp bulutu'ndan bulutu açar, öteki cihazlar anahtarla bağlanır; Kulüp ekranı açılınca, kapanınca ve açıkken birkaç dakikada bir eşitlenir. Veriler cihazda şifrelenip gönderilir, sunucu okuyamaz.\n• YENİ — Kulüp → Takımlar → “Diğer cihazlardan takım ekle”: kulüp bulutundaki takımlar ve maçlar bu cihaza iner.\n• DÜZELTME — Kulüp → Takımlar → “Maçlardan ekle”: kayıtlı bir takım seçildiğinde kadrosu artık son maçındaki gibi gelir (forma numaraları, görevler, başlangıç dizilişi “Son maç” adıyla); oyuncu bilgileri korunur, maçta oynamayanlar listede kalır. Kulübün kendi takımları da listede görünür.",
+        "en": "• NEW (Elit) — Club cloud: the club's data (dues, cash, attendance, members, staff, calendar, equipment, sponsors, officials, parents' page), the teams with their rosters and the club teams' matches and statistics are the same on all the club's devices. One device opens it from Club → ⋮ → Club cloud, the others join with the key; it syncs when the Club screen opens, closes and every few minutes while open. The data is encrypted on the device; the server cannot read it.\n• NEW — Club → Teams → “Add teams from other devices”: the teams and matches in the club cloud come to this device.\n• FIX — Club → Teams → “Add from matches”: a saved team now takes the roster of its last match (shirt numbers, roles, the starting lineup as “Last match”); player details stay, players who did not play stay on the list. The club's own teams are listed too."
     },
-    "android": "https://volleyapp.mygardrop.com/guncelleme/v0.200.0/voleybol.apk",
-    "androidSha256": "84b5326401caf061ef1f2b44a6c1c42b1b68fb3de7b1962575ea0454fe159d99",
-    "androidArm64": "https://volleyapp.mygardrop.com/guncelleme/v0.200.0/voleybol-arm64.apk",
-    "androidArm64Sha256": "11f7b3cee4bc9a8ecf50aef5ce12d2626110b8b14853730e451f730d80a52b62",
-    "androidArm32": "https://volleyapp.mygardrop.com/guncelleme/v0.200.0/voleybol-arm32.apk",
-    "androidArm32Sha256": "50f81c5d95d46574d79dc5fbdb04909801b7d8f20ee4294a3cc4921f1d278310",
-    "windows": "https://volleyapp.mygardrop.com/guncelleme/v0.200.0/voleybol-windows.zip",
-    "windowsSha256": "f366f60e65665a1d3258696d3d1ca870d874c34acd280de695f25e18ef2c58cf"
+    "android": "https://volleyapp.mygardrop.com/guncelleme/v0.201.0/voleybol.apk",
+    "androidSha256": "518a37a6dd95996b3128d824b131fe3e34852c251f70d0081b82de6bb11c75c1",
+    "androidArm64": "https://volleyapp.mygardrop.com/guncelleme/v0.201.0/voleybol-arm64.apk",
+    "androidArm64Sha256": "630fbd8bef388290f45fb435a8e6d1a7c161dfc581c67382a3c0e9dd8e6489e8",
+    "androidArm32": "https://volleyapp.mygardrop.com/guncelleme/v0.201.0/voleybol-arm32.apk",
+    "androidArm32Sha256": "4029a36fb1c2c3fdbec1c16917152dc169829ab90d807240b09ba2d575be8ac4",
+    "windows": "https://volleyapp.mygardrop.com/guncelleme/v0.201.0/voleybol-windows.zip",
+    "windowsSha256": "45519e5f1c74e7b98d6b7eee10112cc3e076af6220110c388c89076ea5286bfb"
 }
