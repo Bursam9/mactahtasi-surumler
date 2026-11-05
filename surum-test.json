@@ -1,16 +1,16 @@
 {
-    "version": "0.208.0",
+    "version": "0.209.0",
     "date": "2026-11-05",
     "notes": {
-        "tr": "• YENİ (Deneysel) — Hızlı Jest & Kaydırma Modu: Ayarlar > Görünüm Seçenekleri altından açılabilir. Saha oyuncu kutusu üzerinde yukarı (smaç sayısı), aşağı (hücum hatası), sağa (servis ası), sola (servis hatası) kaydırarak anında istatistik girişi; basılı tutarak ayrıntılı menü.",
-        "en": "• NEW (Experimental) — Quick Gesture & Swipe Mode: Enable in Settings > View Options. Instant stat entry by swiping on court player box: up (spike kill), down (attack error), right (ace), left (service error); long press for detailed menu."
+        "tr": "• YENİ — Görsel Kart & Saha Aksiyon Modu (VB-DIRECT-TAP): Sahadaki oyuncuya dokunarak görsel kartlar (Smaç, Ace, Blok, Defans, Pas, Kartlar) açılır; hücum, servis ve defans aksiyonlarında mini sahada hedef zon (1-6) seçilerek istatistik koordinatlarıyla kaydedilir.",
+        "en": "• NEW — Visual Card & Court Action Mode (VB-DIRECT-TAP): Tapping a player opens visual action cards (Spike, Ace, Block, Dig, Set, Cards); attack, serve and defense actions allow picking target court zones (1-6) recorded with exact coordinates."
     },
-    "android": "https://volleyapp.mygardrop.com/guncelleme/v0.208.0/voleybol.apk",
-    "androidSha256": "eb75e90dddd735822a20201024b0abeb9e345bf40cbd09d47452a1a345608b47",
-    "androidArm64": "https://volleyapp.mygardrop.com/guncelleme/v0.208.0/voleybol-arm64.apk",
-    "androidArm64Sha256": "b2e2ebd3f341f68f6ac38e3d0abec3c078de95da9d2c895bd411ab3e9eede384",
-    "androidArm32": "https://volleyapp.mygardrop.com/guncelleme/v0.208.0/voleybol-arm32.apk",
-    "androidArm32Sha256": "87ad17e6b92b3614b5ff9c36b65eeb9fc586c87743bacc474e2fe99811ce3c4e",
-    "windows": "https://volleyapp.mygardrop.com/guncelleme/v0.208.0/voleybol-windows.zip",
-    "windowsSha256": "cca93198c9711853896bb86aed9db9714f1f3e2c6a8c0761ef9b63b85ab0ef71"
+    "android": "https://volleyapp.mygardrop.com/guncelleme/v0.209.0/voleybol.apk",
+    "androidSha256": "33a96fdb6821e9c6d2c84f1ce7df30d7d486970d8094e756af312f2cf17f7a95",
+    "androidArm64": "https://volleyapp.mygardrop.com/guncelleme/v0.209.0/voleybol-arm64.apk",
+    "androidArm64Sha256": "330e3a04d5d0661ccc0d8932492569864061e1863d07cbd85e3d5db1bc98e88c",
+    "androidArm32": "https://volleyapp.mygardrop.com/guncelleme/v0.209.0/voleybol-arm32.apk",
+    "androidArm32Sha256": "471dfc37430ece5ce9fd523038c4ec721e27445333acf50b7511870b9ebd187b",
+    "windows": "https://volleyapp.mygardrop.com/guncelleme/v0.209.0/voleybol-windows.zip",
+    "windowsSha256": "a84b71eaad6fc9b2ae73e59a2922bcf3249a69be6bd5c3110648cfcc668ec1d3"
 }
