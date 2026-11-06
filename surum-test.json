@@ -1,16 +1,12 @@
 {
-    "version": "0.213.0",
+    "version": "0.214.0",
     "date": "2026-11-06",
     "notes": {
-        "tr": "• YENİ — Pozisyona Duyarlı Akıllı Çark, Saha Üstü Hücum Ok Çizimi ve Otomatik Pasör Asisti (V4, V5, S1, S3): Dairesel çark dilimleri oyuncunun rolüne göre (Libero, P1 Servisçi, Ön Hat P2-P4, Arka Hat) otomatik şekillenir; mini sahada parmak sürüklenerek hücum/servis oku çizilir ve smaç sayılarında sahadaki pasöre otomatik asist yazılır.\n• YENİ — Kadro Değişiklik Kalkanı, 20 Günlük Yedek Tarihçesi ve Otomatik 1. Set Dizilişi (K1, K2, K3): Aynı isimli takımın üzerine kaydederken numara/isim/rol farkları onay penceresinde gösterilir; son 20 günün kadro yedeklerine tek tıkla dönülebilir ve kurulumda kayıtlı P1-P6 dizilişi otomatik sahaya dizilir.\n• YENİ — Canlı Saha Kontrol Çubuğu, Isı Haritası, Sesli Komut ve Tam Ekran Saha Odak (V6, O2, O3, E1, E2, A1): Canlı saha üstüne tek tıkla rotasyon düzeltme (↺/↻), son 3 işlem ve Geri Al, canlı hücum/defans ısı haritası (🔥 Isı), hızlı sesli/yazılı komut ve Tam Ekran Saha Odak modu eklendi.",
-        "en": "• NEW — Position-Aware Smart Wheel, On-Court Attack Arrow Drawing & Auto Setter Assist (V4, V5, S1, S3): Radial wheel adapts to player role (Libero, P1 Server, Front Row, Back Row); drag on the mini court to draw attack/serve vectors and automatically credit the on-court setter with an assist on kills.\n• NEW — Roster Diff Shield, 20-Day Backup History & Auto Set-1 Lineup (K1, K2, K3): Shows a diff confirmation dialog before overwriting a team, restores from 20-day daily backups, and auto-applies saved P1-P6 lineups at match start.\n• NEW — Live Court Control Bar, Heat Map, Quick Voice Command & Fullscreen Focus (V6, O2, O3, E1, E2, A1): Added 1-tap rotation fix buttons (↺/↻), last-3 actions strip with Undo, live attack/defense heat map overlay, quick command dialog, and Fullscreen Court Focus mode."
+        "tr": "• DÜZELTME — Güncelleme Kurulumu ve Ana Ekran Güncelleme Şeridi: İndirilen güncellemenin indirme biter bitmez doğrudan kuruluma geçmesi, kurulum sonrası eski sürüm önbelleğinin anında temizlenmesi ve güncelleme şeridinin takılı kalmaması sağlandı.\n• DÜZELTME — Tek Uygulama Garantisi ve Ön Plana Getirme (Android & Windows): Güncelleme yükleyicisi veya kısayoldan tekrar açıldığında ikinci bir kopya oluşması ya da arka planda kalması engellendi; açık olan uygulama her zaman doğrudan ekrana getirilir.\n• İYİLEŞTİRME — Akıllı ve Hızlı Sunucu Güncelleme Yüklemesi: Güncelleme yayınlanırken yalnızca değişen ve ilgili kanalda gereken paketler yüklenir; aynı özetli dosyalar sunucuda yeniden yüklenmeden kullanılır ve eski derleme paketleri otomatik ayıklanır.",
+        "en": "• FIX — Update Installation & Home Update Banner: Updates initiated by the user now launch the installer immediately upon download completion and clear cached update state right after upgrading so the banner never stays stuck.\n• FIX — Single-Instance & Bring-to-Front Guarantee (Android & Windows): Prevented duplicate tasks/windows or backgrounded installer windows when re-opening or updating the app; always brings the running instance to the front.\n• IMPROVEMENT — Smart Incremental Server Upload: Publishing updates now uploads only changed and required packages for the target channel, reuses unchanged files on the server, and guards against stale build artifacts."
     },
-    "android": "https://volleyapp.mygardrop.com/guncelleme/v0.213.0/voleybol.apk",
-    "androidSha256": "28c2aa01afb6790c4e86f0cc7f486e4e51c6e7f9738dc53706b907e82d6fefd6",
-    "androidArm64": "https://volleyapp.mygardrop.com/guncelleme/v0.213.0/voleybol-arm64.apk",
-    "androidArm64Sha256": "ad1d4fef3082a738b3bb0262f6de5205c2786c852419ad76d65829fcfdd50ed3",
-    "androidArm32": "https://volleyapp.mygardrop.com/guncelleme/v0.213.0/voleybol-arm32.apk",
-    "androidArm32Sha256": "363b04669ae454095a56da0a305b236b5625c9e327af83b12918004a656c1f61",
-    "windows": "https://volleyapp.mygardrop.com/guncelleme/v0.213.0/voleybol-windows.zip",
-    "windowsSha256": "93f9d8dbc163d5f7978a0d9f0c015178c07f9819416455b4170115f0dfca8224"
+    "androidArm64": "https://volleyapp.mygardrop.com/guncelleme/v0.214.0/voleybol-arm64.apk",
+    "androidArm64Sha256": "7b1a71117c348384f90f3b77e4f37381caf602c3b88a766708523855b35c1232",
+    "windows": "https://volleyapp.mygardrop.com/guncelleme/v0.214.0/voleybol-windows.zip",
+    "windowsSha256": "c935ceb8119951cbf7f490bdda1697995e3bb13308f6e93a4b4a7d701b32317a"
 }
