@@ -1,16 +1,16 @@
 {
-    "version": "0.211.0",
-    "date": "2026-11-05",
+    "version": "0.212.0",
+    "date": "2026-11-06",
     "notes": {
-        "tr": "• YENİ — Saha Üstü Dairesel Çark (VB-RADIAL-WHEEL / GB:17841F3D): Sahada bir oyuncuya dokunulduğunda doğrudan o oyuncunun etrafında dairesel aksiyon çarkı açılır (Smaç, Blok, Ace, Defans, Pas, Hatalar). Seçimden sonra mini saha iniş bölgesi (Zon 1-6) ve rakip defans oyuncusu çarkı (GB:443329FE) ile eksiksiz istatistik kaydedilir.\n• BİLGİ & DOĞRULAMA — Geçmiş Maç Kadro ve Pozisyonları (GB:29E9D79C): Takım listesi sonradan değişse bile geçmiş maç kayıtlarında o maçtaki forma numaraları, isimler ve set başlangıç dizilişleri (P1-P6) eksiksiz olarak korunur ve Maç Özeti -> \"Set Dizilişleri\" tablosunda görüntülenebilir.",
-        "en": "• NEW — On-Court Radial Action Wheel (VB-RADIAL-WHEEL / GB:17841F3D): Tapping an on-court player opens an action wheel around that player (Spike, Block, Ace, Dig, Set, Errors). Follows up with court landing zones (1-6) and opponent defender radial selection (GB:443329FE) for rich stat recording.\n• INFO & VERIFICATION — Historical Match Roster & Lineups (GB:29E9D79C): Even if team rosters change later, historical match archives strictly preserve starting jerseys, names, and set lineups (P1-P6), inspectable under Match Summary -> \"Set Lineups\"."
+        "tr": "• YENİ — Geçmiş Maçtan Kadro & Diziliş Çekme ve Kilitli Kayıt (V1): Kaydedilenden Yükle ekranındaki \"Geçmiş Maçtan Kadro Çek\" sekmesinden veya Maç Özeti -> \"Set Dizilişleri\" tablosundan herhangi bir geçmiş maçtaki (örn. Gisk - Peyman) oyuncu numaraları, isimleri, pozisyon rolleri (P/Ç/O/K/L) ve P1-P6 dizilişleri tek dokunuşla \"Kilitli Kayıt\" olarak çekilip kaydedilebilir. Kilitli kadrolar sizin kayıt işleminiz dışında asla değişmez.\n• YENİ — Kendi Takımlarım ve Rakip Takımlar Sekmeleri (V2): Takım çağırırken önce sadece kendi kulübünüzün takımları (\"Kendi Takımlarım\" sekmesi), diğer sekmede ise \"Rakip Takımlar\" görünür. Her takım kartında \"Kilitli Kayıt\" ve \"Kendi Takımım / Rakip Takım\" durumu kontrol edilip düzenlenebilir.\n• DÜZELTME — Dikey Modda Kadro ve Dizilim Takibi Oyuncu İsimleri (V3): Maç başlatırken dikey (portre) modda tablet ve telefonda kadro kartları alt alta tam genişlikte yerleşir ve pozisyon rozetleri alt satıra geçerek oyuncu isimlerinin her zaman net ve tam görünmesi sağlandı.",
+        "en": "• NEW — Pull Roster & Lineups from Past Matches + Locked Roster Save (V1): Extract exact jersey numbers, names, roles (S/OP/MB/OH/L) and P1-P6 set lineups from any saved match (via the \"Pull from Past Match\" tab or Match Summary) as a Protected/Locked team that never changes without explicit user save.\n• NEW — My Club Teams vs Opponent Teams Tabs (V2): Team picker now opens with \"My Club Teams\" first and \"Opponent Teams\" in a separate tab, with inline lock status and roster editing controls.\n• FIX — Portrait Mode Player Name Visibility in Setup (V3): Stacked roster cards vertically in portrait mode on tablets and phones and moved role chips below the name row on narrow widths so player names are always wide and readable."
     },
-    "android": "https://volleyapp.mygardrop.com/guncelleme/v0.211.0/voleybol.apk",
-    "androidSha256": "10a6f7abe3479a721cb83800c6a4c1ca78f9bbe0e9fa1807e41c4072f9c5b8d6",
-    "androidArm64": "https://volleyapp.mygardrop.com/guncelleme/v0.211.0/voleybol-arm64.apk",
-    "androidArm64Sha256": "64349541a697c321f41fc72ab28ccb38f657cd31ad7aad06eb1fe6ed3ba1511d",
-    "androidArm32": "https://volleyapp.mygardrop.com/guncelleme/v0.211.0/voleybol-arm32.apk",
-    "androidArm32Sha256": "140f1c0fecc58cbf80d31c7380ea03af258c78de64453ce14a5e9aca508af0dc",
-    "windows": "https://volleyapp.mygardrop.com/guncelleme/v0.211.0/voleybol-windows.zip",
-    "windowsSha256": "b96e0dbd1f2bf4562e42e75b2f0c2667d1e4ed596accb8af5ff9ea35e33f0151"
+    "android": "https://volleyapp.mygardrop.com/guncelleme/v0.212.0/voleybol.apk",
+    "androidSha256": "28c2aa01afb6790c4e86f0cc7f486e4e51c6e7f9738dc53706b907e82d6fefd6",
+    "androidArm64": "https://volleyapp.mygardrop.com/guncelleme/v0.212.0/voleybol-arm64.apk",
+    "androidArm64Sha256": "ad1d4fef3082a738b3bb0262f6de5205c2786c852419ad76d65829fcfdd50ed3",
+    "androidArm32": "https://volleyapp.mygardrop.com/guncelleme/v0.212.0/voleybol-arm32.apk",
+    "androidArm32Sha256": "363b04669ae454095a56da0a305b236b5625c9e327af83b12918004a656c1f61",
+    "windows": "https://volleyapp.mygardrop.com/guncelleme/v0.212.0/voleybol-windows.zip",
+    "windowsSha256": "93f9d8dbc163d5f7978a0d9f0c015178c07f9819416455b4170115f0dfca8224"
 }
