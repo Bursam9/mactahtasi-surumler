@@ -1,16 +1,16 @@
 {
-    "version": "0.210.0",
+    "version": "0.211.0",
     "date": "2026-11-05",
     "notes": {
-        "tr": "• YENİ — Canlı Oyuncu Aksiyon Çarkı ve Defans Seçimi (GB:443329FE): Sahada oyuncuya basıldığında oyuncuya odaklanılır ve aksiyonlar seçilir; hücum ve serviste iniş bölgesi seçildiğinde defansı yapan ya da yapamayan rakip oyuncu seçimi açılarak eksiksiz istatistik kaydedilir.\n• DÜZELTME — Devam eden maçın ana ekranda ilk başta görünmemesi sorunu (GB:2C3461FE) giderildi.\n• DÜZELTME — Geri bildirim ekranında ses kaydının otomatik açık başlaması isteğe bağlı hale getirildi (GB:6AF4A1D2).",
-        "en": "• NEW — Live Player Action Wheel & Defender Follow-up (GB:443329FE): Tapping a player focuses on their actions; selecting an attack/serve landing zone allows picking the defending player (dig/error) for comprehensive statistics.\n• FIX — Fixed in-progress match not showing initially on home screen (GB:2C3461FE).\n• FIX — Feedback voice recording no longer auto-starts by default (GB:6AF4A1D2)."
+        "tr": "• YENİ — Saha Üstü Dairesel Çark (VB-RADIAL-WHEEL / GB:17841F3D): Sahada bir oyuncuya dokunulduğunda doğrudan o oyuncunun etrafında dairesel aksiyon çarkı açılır (Smaç, Blok, Ace, Defans, Pas, Hatalar). Seçimden sonra mini saha iniş bölgesi (Zon 1-6) ve rakip defans oyuncusu çarkı (GB:443329FE) ile eksiksiz istatistik kaydedilir.\n• BİLGİ & DOĞRULAMA — Geçmiş Maç Kadro ve Pozisyonları (GB:29E9D79C): Takım listesi sonradan değişse bile geçmiş maç kayıtlarında o maçtaki forma numaraları, isimler ve set başlangıç dizilişleri (P1-P6) eksiksiz olarak korunur ve Maç Özeti -> \"Set Dizilişleri\" tablosunda görüntülenebilir.",
+        "en": "• NEW — On-Court Radial Action Wheel (VB-RADIAL-WHEEL / GB:17841F3D): Tapping an on-court player opens an action wheel around that player (Spike, Block, Ace, Dig, Set, Errors). Follows up with court landing zones (1-6) and opponent defender radial selection (GB:443329FE) for rich stat recording.\n• INFO & VERIFICATION — Historical Match Roster & Lineups (GB:29E9D79C): Even if team rosters change later, historical match archives strictly preserve starting jerseys, names, and set lineups (P1-P6), inspectable under Match Summary -> \"Set Lineups\"."
     },
-    "android": "https://volleyapp.mygardrop.com/guncelleme/v0.210.0/voleybol.apk",
-    "androidSha256": "3ba45841006d887380ba647cf608d5d31df40248deec4b86d8ea3e1e9bec7af4",
-    "androidArm64": "https://volleyapp.mygardrop.com/guncelleme/v0.210.0/voleybol-arm64.apk",
-    "androidArm64Sha256": "c9e9c453276123614e31e53e261adfc01596c4ea1fe1caedd7e19e5814f1d659",
-    "androidArm32": "https://volleyapp.mygardrop.com/guncelleme/v0.210.0/voleybol-arm32.apk",
-    "androidArm32Sha256": "60df0d09beeae343bd6f9dd6ce73cf453d02560fd293c0b8d9cd8ee6ef9cfcd0",
-    "windows": "https://volleyapp.mygardrop.com/guncelleme/v0.210.0/voleybol-windows.zip",
-    "windowsSha256": "2aa7f4a41de6d9606fe941b1ea9bdaacb8cc150059efbaca835c49661940b923"
+    "android": "https://volleyapp.mygardrop.com/guncelleme/v0.211.0/voleybol.apk",
+    "androidSha256": "10a6f7abe3479a721cb83800c6a4c1ca78f9bbe0e9fa1807e41c4072f9c5b8d6",
+    "androidArm64": "https://volleyapp.mygardrop.com/guncelleme/v0.211.0/voleybol-arm64.apk",
+    "androidArm64Sha256": "64349541a697c321f41fc72ab28ccb38f657cd31ad7aad06eb1fe6ed3ba1511d",
+    "androidArm32": "https://volleyapp.mygardrop.com/guncelleme/v0.211.0/voleybol-arm32.apk",
+    "androidArm32Sha256": "140f1c0fecc58cbf80d31c7380ea03af258c78de64453ce14a5e9aca508af0dc",
+    "windows": "https://volleyapp.mygardrop.com/guncelleme/v0.211.0/voleybol-windows.zip",
+    "windowsSha256": "b96e0dbd1f2bf4562e42e75b2f0c2667d1e4ed596accb8af5ff9ea35e33f0151"
 }
