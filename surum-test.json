@@ -1,12 +1,12 @@
 {
-    "version": "0.216.0",
-    "date": "2026-11-06",
+    "version": "0.217.0",
+    "date": "2026-11-08",
     "notes": {
-        "tr": "• YENİ — Video-AI Modül Paketi (VİD-1 .. VİD-6): Entegre Video ve Canlı Kamera Analiz Stüdyosu (VİD-1), 4 köşe homografi ile perspektif düzeltmeli video-saha koordinat dönüşümü (VİD-2), optik hareket akışıyla otomatik ralli ve smaç/blok/ace tespiti (VİD-3), skorbord OCR ve forma renk takibi (VİD-5), oyuncu ve aksiyon bazlı kesintisiz video klip kolaj oynatıcısı (VİD-6) kullanıma sunuldu.",
-        "en": "• NEW — Video-AI Module Suite (VID-1 .. VID-6): In-app Video & Live Camera Analysis Studio (VID-1), 4-point homography calibration for perspective-corrected tap-to-court mapping (VID-2), optical flow automatic rally & spike/block/ace detector (VID-3), scoreboard OCR & jersey color tracker (VID-5), and consecutive player & action highlight clip collage player (VID-6)."
+        "tr": "• DÜZELTME — Set başına oyuncu değişikliği yeniden FIVB kuralına uygun 6 (0.215'te yanlışlıkla 8 yapılmıştı). 8 yalnız FIVB 2026 deneme kuralını uygulayan turnuvalar için kurulumda seçilebilir; skor ekranı, uyarılar ve değişiklik asistanı maçın kendi sınırını kullanır.\n• DÜZELTME — Akıllı çark istatistikle tam uyumlu: çarktan gelen sayıda \"sayı nasıl geldi\" ayrıca sorulmaz (aynı sayı iki kez işlenebiliyordu), ralli modundaki temaslar sayıdan önce kaydedilir, blok-out doğru yazılır.\n• YENİ — Çarka \"Bloklandı (-)\", \"Blok Hata (-)\" ve \"Manşet -\" eklendi; akıllı çark 4 dilde.\n• NOT — Video stüdyosundaki otomatik ralli / skorbord okuma (VİD-3, VİD-5) henüz videodan okuma yapmıyor; deneme düğmesi kaldırıldı, stüdyo video lisansına bağlandı.",
+        "en": "• FIX — Substitutions per set are back to the FIVB rule of 6 (0.215 wrongly made it 8). 8 can be chosen in the setup only for competitions using the FIVB 2026 rule test; the score screen, alerts and the substitution assistant use the match's own limit.\n• FIX — The smart wheel matches the stats: a point from the wheel no longer opens the \"how did the point come\" sheet as well (the same point could be counted twice), rally-mode contacts are recorded before the point, block-out is recorded correctly.\n• NEW — \"Blocked (-)\", \"Block error (-)\" and \"Reception -\" on the wheel; the smart wheel is in all four languages.\n• NOTE — The video studio's automatic rally / scoreboard reading (VID-3, VID-5) does not read the video yet; the test button is gone and the studio follows the video licence."
     },
-    "androidArm64": "https://volleyapp.mygardrop.com/guncelleme/v0.216.0/voleybol-arm64.apk",
-    "androidArm64Sha256": "202480c43105b9bb3754bb2d258430bf8ecda68d9c13631f630755ed7ea111ae",
-    "windows": "https://volleyapp.mygardrop.com/guncelleme/v0.216.0/voleybol-windows.zip",
-    "windowsSha256": "35ab10d0a65193564b41a1458c068cb0cd3f3ef163594afa7be78c67d23420d6"
+    "androidArm64": "https://volleyapp.mygardrop.com/guncelleme/v0.217.0/voleybol-arm64.apk",
+    "androidArm64Sha256": "1593306c5ca351ede740e32a4ae2d59d11e12b17444b1f92b2972d63311a7025",
+    "windows": "https://volleyapp.mygardrop.com/guncelleme/v0.217.0/voleybol-windows.zip",
+    "windowsSha256": "73583b14b0b7c4a634b3f6ad266b38d0e7a07e1eff4f7ef0c8a726e933269379"
 }
