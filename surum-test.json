@@ -1,12 +1,12 @@
 {
-    "version": "0.214.0",
+    "version": "0.216.0",
     "date": "2026-11-06",
     "notes": {
-        "tr": "• DÜZELTME — Güncelleme Kurulumu ve Ana Ekran Güncelleme Şeridi: İndirilen güncellemenin indirme biter bitmez doğrudan kuruluma geçmesi, kurulum sonrası eski sürüm önbelleğinin anında temizlenmesi ve güncelleme şeridinin takılı kalmaması sağlandı.\n• DÜZELTME — Tek Uygulama Garantisi ve Ön Plana Getirme (Android & Windows): Güncelleme yükleyicisi veya kısayoldan tekrar açıldığında ikinci bir kopya oluşması ya da arka planda kalması engellendi; açık olan uygulama her zaman doğrudan ekrana getirilir.\n• İYİLEŞTİRME — Akıllı ve Hızlı Sunucu Güncelleme Yüklemesi: Güncelleme yayınlanırken yalnızca değişen ve ilgili kanalda gereken paketler yüklenir; aynı özetli dosyalar sunucuda yeniden yüklenmeden kullanılır ve eski derleme paketleri otomatik ayıklanır.",
-        "en": "• FIX — Update Installation & Home Update Banner: Updates initiated by the user now launch the installer immediately upon download completion and clear cached update state right after upgrading so the banner never stays stuck.\n• FIX — Single-Instance & Bring-to-Front Guarantee (Android & Windows): Prevented duplicate tasks/windows or backgrounded installer windows when re-opening or updating the app; always brings the running instance to the front.\n• IMPROVEMENT — Smart Incremental Server Upload: Publishing updates now uploads only changed and required packages for the target channel, reuses unchanged files on the server, and guards against stale build artifacts."
+        "tr": "• YENİ — Video-AI Modül Paketi (VİD-1 .. VİD-6): Entegre Video ve Canlı Kamera Analiz Stüdyosu (VİD-1), 4 köşe homografi ile perspektif düzeltmeli video-saha koordinat dönüşümü (VİD-2), optik hareket akışıyla otomatik ralli ve smaç/blok/ace tespiti (VİD-3), skorbord OCR ve forma renk takibi (VİD-5), oyuncu ve aksiyon bazlı kesintisiz video klip kolaj oynatıcısı (VİD-6) kullanıma sunuldu.",
+        "en": "• NEW — Video-AI Module Suite (VID-1 .. VID-6): In-app Video & Live Camera Analysis Studio (VID-1), 4-point homography calibration for perspective-corrected tap-to-court mapping (VID-2), optical flow automatic rally & spike/block/ace detector (VID-3), scoreboard OCR & jersey color tracker (VID-5), and consecutive player & action highlight clip collage player (VID-6)."
     },
-    "androidArm64": "https://volleyapp.mygardrop.com/guncelleme/v0.214.0/voleybol-arm64.apk",
-    "androidArm64Sha256": "7b1a71117c348384f90f3b77e4f37381caf602c3b88a766708523855b35c1232",
-    "windows": "https://volleyapp.mygardrop.com/guncelleme/v0.214.0/voleybol-windows.zip",
-    "windowsSha256": "c935ceb8119951cbf7f490bdda1697995e3bb13308f6e93a4b4a7d701b32317a"
+    "androidArm64": "https://volleyapp.mygardrop.com/guncelleme/v0.216.0/voleybol-arm64.apk",
+    "androidArm64Sha256": "202480c43105b9bb3754bb2d258430bf8ecda68d9c13631f630755ed7ea111ae",
+    "windows": "https://volleyapp.mygardrop.com/guncelleme/v0.216.0/voleybol-windows.zip",
+    "windowsSha256": "35ab10d0a65193564b41a1458c068cb0cd3f3ef163594afa7be78c67d23420d6"
 }
